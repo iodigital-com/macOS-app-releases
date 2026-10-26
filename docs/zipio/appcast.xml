@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Zipio</title>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Mon, 26 Oct 2026 16:27:15 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.4.0/Zipio-1.4.0.zip" length="3519213" type="application/octet-stream" sparkle:edSignature="UJeLbOTyaD45UMXZh49jWLivBf74RwsqCC1bPMW8K435d5r/CUPOly4/cRrre2VNz7tkJq/TrTawUrUACZ4pBQ=="/>
+        </item>
+    </channel>
+</rss>
