@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nuvis</title>
+        <item>
+            <title>1.2.1</title>
+            <pubDate>Tue, 27 Oct 2026 17:25:30 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-test-v1.2.1/Nuvis-1.2.1.zip" length="3672848" type="application/octet-stream" sparkle:edSignature="0GbLD0kbDemRRM+jcRxH0qQGiHAeqEWkGpfKWoSOi0G9p0YVTNRPbtrrzLsUQJkAr4wfzX9eeQp91GwldnRoAg=="/>
+        </item>
+    </channel>
+</rss>
