@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Aivis</title>
+        <item>
+            <title>1.2.2</title>
+            <pubDate>Tue, 27 Oct 2026 17:47:14 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.2/Aivis-1.2.2.zip" length="3407407" type="application/octet-stream" sparkle:edSignature="or7kpARYCqlMfnAVAgJCEYtVUN6ViN3M9SmldZf2w1KUDr0xf2DKOP1DOKQAd/XKh9CnAINMnHG+1GGUf+YDBg=="/>
+        </item>
+    </channel>
+</rss>
