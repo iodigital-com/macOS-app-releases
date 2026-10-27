@@ -11,8 +11,7 @@ Packs files and folders into ZIP archives that open with the built-in tools in m
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-[![Zipio](assets/Zipio.png)](https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.4.0/Zipio-1.4.0.zip)
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.1.3/UpgradeKitTest-0.1.3.zip"><img src="assets/Zipio.png" alt="Zipio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.4.0/Zipio-1.4.0.zip"><img src="assets/Zipio.png" alt="Zipio app icon" width="128" height="128"></a>
 
 [Download Zipio 1.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.4.0/Zipio-1.4.0.zip) · SHA-256 `4626db7d41230158bf176e52598709b89b2c42fb9c835d70b32dd209912cf274`
 
