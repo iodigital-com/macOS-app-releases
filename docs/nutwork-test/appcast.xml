@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nutwork</title>
+        <item>
+            <title>1.5.1</title>
+            <pubDate>Tue, 27 Oct 2026 14:37:35 +0100</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-test-v1.5.1/Nutwork-1.5.1.zip" length="3979211" type="application/octet-stream" sparkle:edSignature="n8afdRvDTn1F04nQ/OPY96UoB0rDKuQ55zqq2vp7XzqSg7IknT2fRTGxBd20do7VsDzpyl2+WxFcoAOKajoQCg=="/>
+        </item>
+    </channel>
+</rss>
