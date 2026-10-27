@@ -77,7 +77,7 @@ Unzip and drag `Nuvis.app` to Applications. Nuvis then checks for updates automa
 
 ## Helpio
 
-iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.1.0 (build 1)**.
+iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.2.0 (build 2)**.
 
 - macOS 27 or later
 - Apple silicon
@@ -85,9 +85,11 @@ iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Ji
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.1.0/Helpio-0.1.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.2.0/Helpio-0.2.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.1.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.1.0/Helpio-0.1.0.zip) · SHA-256 `ea44bf1c015cf062b53007fc4c12674f19365f4e53398887658a9365b834d811`
+[Download Helpio 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.2.0/Helpio-0.2.0.zip) · SHA-256 `43678d98c59fa9af1247fb3fdf5e82be87d65db2034860d473b01790aab4e64d`
+
+Ticket titles, descriptions and comments are translated on the Mac to your preferred language; original text remains available. Apple may ask to download language packs.
 
 Unzip and drag `Helpio.app` to Applications. Add your own Confluence and Jira personal access tokens in Helpio's settings. Helpio then checks for updates once a day; you can also choose **Check for Updates…** in the Helpio menu. Installing always asks first.
 
