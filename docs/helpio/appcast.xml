@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Helpio</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 27 Oct 2026 22:29:44 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.1.0/Helpio-0.1.0.zip" length="2141539" type="application/octet-stream" sparkle:edSignature="gdd7rZHqrbdm09P0Pn20UAnr8lIXL9fsr1FgiB+/+XcZ5nOM1/ty3yFcTXcmf+hiBHvZ4CpNHcAxmiZZ1xq2CQ=="/>
+        </item>
+    </channel>
+</rss>
