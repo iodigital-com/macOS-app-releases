@@ -45,6 +45,36 @@ Menu bar app that explains in plain language whether the network works and, if n
 
 Unzip and drag `Nutwork.app` to Applications. Nutwork then checks for updates once a day; you can also choose **Check for Updates…** in the Nutwork menu. Installing always asks first. Nutwork 1.5.1 and earlier cannot update themselves: install 1.6.0 once by hand.
 
+## Aivis
+
+AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intelligence or with iO Bonzai. Current version: **1.2.2 (build 5)**.
+
+- macOS 27 or later
+- Swedish and English
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.2/Aivis-1.2.2.zip"><img src="assets/Aivis.png" alt="Aivis app icon" width="128" height="128"></a>
+
+[Download Aivis 1.2.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.2/Aivis-1.2.2.zip) · SHA-256 `5804068ef013913653c2285609a9422e713e59bcc4a421017669cc59405386e4`
+
+Unzip and drag `Aivis.app` to Applications. Aivis then checks for updates automatically; you can also choose **Check for Updates…** in the Aivis menu. Installing always asks first. Aivis 1.1.0 and earlier cannot update themselves: install 1.2.2 once by hand.
+
+## Nuvis
+
+Upload and download files and folders between Finder and Elvis DAM, with optional AI tagging. Current version: **1.2.2 (build 5)**.
+
+- macOS 27 or later
+- Swedish and English
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.2.2/Nuvis-1.2.2.zip"><img src="assets/Nuvis.png" alt="Nuvis app icon" width="128" height="128"></a>
+
+[Download Nuvis 1.2.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.2.2/Nuvis-1.2.2.zip) · SHA-256 `38ba12eb9c8b69bf60a1f1b519dc1afb5a6bc30d8a8135382c115045594e597d`
+
+Unzip and drag `Nuvis.app` to Applications. Nuvis then checks for updates automatically; you can also choose **Check for Updates…** in the Nuvis menu. Installing always asks first. Nuvis 1.1.0 and earlier cannot update themselves: install 1.2.2 once by hand.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
