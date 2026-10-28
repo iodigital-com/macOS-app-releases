@@ -3,6 +3,14 @@
     <channel>
         <title>Aivis</title>
         <item>
+            <title>1.2.3</title>
+            <pubDate>Wed, 28 Oct 2026 14:17:01 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.3/Aivis-1.2.3.zip" length="3442889" type="application/octet-stream" sparkle:edSignature="R/BCfvYWyUoEGFAs8O/WYFrH8pBiPCWJdGX6BL/qEtoIDZq46OuCFHz5jqSd+xoLhss1raFLaLp25Xd0qvSwDQ=="/>
+        </item>
+        <item>
             <title>1.2.2</title>
             <pubDate>Tue, 27 Oct 2026 17:47:14 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
