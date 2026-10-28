@@ -77,7 +77,7 @@ Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itse
 
 ## Helpio
 
-iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.2.0 (build 2)**.
+iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.3.0 (build 5)**.
 
 - macOS 27 or later
 - Apple silicon
@@ -85,13 +85,13 @@ iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Ji
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.2.0/Helpio-0.2.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.0/Helpio-0.3.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.2.0/Helpio-0.2.0.zip) · SHA-256 `43678d98c59fa9af1247fb3fdf5e82be87d65db2034860d473b01790aab4e64d`
+[Download Helpio 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.0/Helpio-0.3.0.zip) · SHA-256 `e230872788309580c8fe1c8658dda4f49d97a4a988deae7279ab5f57beae33f1`
 
 Ticket titles, descriptions and comments are translated on the Mac to your preferred language; original text remains available. Apple may ask to download language packs.
 
-Unzip and drag `Helpio.app` to Applications. Add your own Confluence and Jira personal access tokens in Helpio's settings. Helpio then checks for updates once a day; you can also choose **Check for Updates…** in the Helpio menu. Installing always asks first.
+Unzip and open `Helpio.app`; if it is not in Applications, Helpio offers to move itself there. Add your own Confluence and Jira personal access tokens in Helpio's settings. Helpio then checks for updates once a day; you can also choose **Check for Updates…** in the Helpio menu. Installing always asks first.
 
 ## All apps
 
