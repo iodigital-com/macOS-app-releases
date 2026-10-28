@@ -3,6 +3,14 @@
     <channel>
         <title>Helpio</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 28 Oct 2026 14:26:05 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.0/Helpio-0.3.0.zip" length="2266020" type="application/octet-stream" sparkle:edSignature="2uewUTZNQm8PDZbfVHdo9JoY/M5dnHFySdlnGGHGJBEM83MhfDA5xOw8skwys6XzWBX82pcOTvtFHBloyF3nAA=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Tue, 27 Oct 2026 23:48:38 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
