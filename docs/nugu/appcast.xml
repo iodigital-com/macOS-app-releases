@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Nugu</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 30 Oct 2026 15:46:30 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nugu-v1.0.0/Nugu-1.0.0.zip" length="5611680" type="application/octet-stream" sparkle:edSignature="robicbDX9LDSjdkmtcvNU+pgsblc12WOs95pTrC55xJzikbfTuMt5EyJmYYOY4id33nh3CQYe0nMJhSBxikhAg=="/>
+        </item>
+    </channel>
+</rss>
