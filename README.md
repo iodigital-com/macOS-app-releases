@@ -77,7 +77,7 @@ Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itse
 
 ## Helpio
 
-iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.3.0 (build 5)**.
+iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.3.1 (build 6)**.
 
 - macOS 27 or later
 - Apple silicon
@@ -85,9 +85,9 @@ iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Ji
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.0/Helpio-0.3.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.1/Helpio-0.3.1.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.0/Helpio-0.3.0.zip) · SHA-256 `e230872788309580c8fe1c8658dda4f49d97a4a988deae7279ab5f57beae33f1`
+[Download Helpio 0.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.1/Helpio-0.3.1.zip) · SHA-256 `bc258edc6a5242e8c23cf4813f644adfa243a045290215f3872cac874994ca5a`
 
 Ticket titles, descriptions and comments are translated on the Mac to your preferred language; original text remains available. Apple may ask to download language packs.
 
