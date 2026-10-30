@@ -39,11 +39,11 @@ Menu bar app that explains in plain language whether the network works and, if n
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.6.0/Nutwork-1.6.0.zip"><img src="assets/Nutwork.png" alt="Nutwork app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.0/Nutwork-1.7.0.zip"><img src="assets/Nutwork.png" alt="Nutwork app icon" width="128" height="128"></a>
 
-[Download Nutwork 1.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.6.0/Nutwork-1.6.0.zip) · SHA-256 `706bd6bf31b56977a6115877ce1313be91df90d8a02aff588ee31d8f72c44d6d`
+[Download Nutwork 1.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.0/Nutwork-1.7.0.zip) · SHA-256 `edfe790906f9b11116839246e5d92058fc34e527ed1d7b169871d2dddbff960e`
 
-Unzip and drag `Nutwork.app` to Applications. Nutwork then checks for updates once a day; you can also choose **Check for Updates…** in the Nutwork menu. Installing always asks first. Nutwork 1.5.1 and earlier cannot update themselves: install 1.6.0 once by hand.
+Unzip and open `Nutwork.app`; it offers to move itself to Applications. Nutwork then checks for updates once a day; you can also choose **Check for Updates…** in the Nutwork menu. Installing always asks first. Nutwork 1.5.1 and earlier cannot update themselves: install a newer version once by hand.
 
 ## Aivis
 
