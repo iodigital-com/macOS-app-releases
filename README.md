@@ -95,6 +95,20 @@ Ticket titles, descriptions and comments are translated on the Mac to your prefe
 
 Unzip and open `Helpio.app`; if it is not in Applications, Helpio offers to move itself there. Add your own Confluence and Jira personal access tokens in Helpio's settings. Helpio then checks for updates once a day; you can also choose **Check for Updates…** in the Helpio menu. Installing always asks first.
 
+## Nugu
+
+SFTP and SCP client with two panes, local and remote. Drag files to and from Finder and follow every transfer in the queue. Nugu uses the macOS SSH tools, so your SSH settings and agents such as 1Password keep working. Current version: **1.0.0 (build 3)**.
+
+- macOS 26 or later
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nugu-v1.0.0/Nugu-1.0.0.zip"><img src="assets/Nugu.png" alt="Nugu app icon" width="128" height="128"></a>
+
+[Download Nugu 1.0.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nugu-v1.0.0/Nugu-1.0.0.zip) · SHA-256 `a2ab521f16384ce24cbb87cd7072e269d82e6d69eb6287bd01b178fe4f9cb872`
+
+Unzip and open `Nugu.app`; it offers to move itself to Applications. Nugu then checks for updates once a day; you can also choose **Check for Updates…** in the Nugu menu. Installing always asks first, and never interrupts a running transfer.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
