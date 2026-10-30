@@ -3,6 +3,14 @@
     <channel>
         <title>Nuvis</title>
         <item>
+            <title>1.2.4</title>
+            <pubDate>Fri, 30 Oct 2026 15:19:31 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.2.4/Nuvis-1.2.4.zip" length="3728611" type="application/octet-stream" sparkle:edSignature="7Hgpt2IZzGfZPf6s+DSGrFp6cO+OEuxjuvQRU6Jiz1qTxm4WELjR0Me+qwvz1fDSvCU1sifBJ90Dl99FGAurAg=="/>
+        </item>
+        <item>
             <title>1.2.3</title>
             <pubDate>Wed, 28 Oct 2026 14:18:01 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
