@@ -3,6 +3,14 @@
     <channel>
         <title>Nutwork</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Fri, 30 Oct 2026 15:34:57 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.0/Nutwork-1.7.0.zip" length="4087435" type="application/octet-stream" sparkle:edSignature="PX7MGMU1X56u0u9fArro9Fvo2xvjC86mECC4eOlXfCyuz2t8VecXU8AOk/beMQ/x9bcbbi2ZCidjp0lxXAD+Dw=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Tue, 27 Oct 2026 15:00:05 +0100</pubDate>
             <sparkle:version>20</sparkle:version>
