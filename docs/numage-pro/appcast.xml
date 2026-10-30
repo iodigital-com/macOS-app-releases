@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Numage Pro</title>
+        <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 30 Oct 2026 15:56:17 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.1.0/Numage-Pro-update-1.1.0.zip" length="5400349" type="application/octet-stream" sparkle:edSignature="eJLy2EiPzIiIDOTwtqJqR1noUKKQd5N7AXDNnHZnHVStdJYuko2yFCqOgSqNgLn0b0TSpYPCAMAnaqP91QFfBA=="/>
+        </item>
+    </channel>
+</rss>
