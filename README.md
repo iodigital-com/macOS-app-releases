@@ -32,7 +32,7 @@ A minimal test app for validating Sparkle updates through the UpgradeKit package
 
 ## Nutwork
 
-Menu bar app that explains in plain language whether the network works and, if not, where the chain breaks: Wi-Fi, IP address, router, DNS, internet or VPN. Current version: **1.6.0 (build 20)**.
+Menu bar app that explains in plain language whether the network works and, if not, where the chain breaks: Wi-Fi, IP address, router, DNS, internet or VPN. Current version: **1.7.0 (build 22)**.
 
 - macOS 26 or later
 - English, Swedish, French, Dutch and Danish
