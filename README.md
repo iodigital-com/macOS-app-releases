@@ -109,6 +109,39 @@ SFTP and SCP client with two panes, local and remote. Drag files to and from Fin
 
 Unzip and open `Nugu.app`; it offers to move itself to Applications. Nugu then checks for updates once a day; you can also choose **Check for Updates…** in the Nugu menu. Installing always asks first, and never interrupts a running transfer.
 
+## Numage
+
+Converts images into AIIF text prompts with on-device Apple Intelligence and renders AIIF files back into images with Image Playground. Includes batch export, roundtrip and Quick Look previews. Current version: **1.3.0 (build 6)**.
+
+- macOS 27 or later
+- Apple silicon with Apple Intelligence enabled
+- Swedish and English
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-v1.3.0/Numage-1.3.0.zip"><img src="assets/Numage.png" alt="Numage app icon" width="128" height="128"></a>
+
+[Download Numage 1.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-v1.3.0/Numage-1.3.0.zip) · SHA-256 `fcba7adf363cea40a60eb8bd4c0a9e06f7e5817f5367dad3e246e8fe56cb357b`
+
+Unzip and open `Numage.app`; if it is not in Applications, it offers to move itself there. The download also contains a README and four example AIIF files. Numage then checks for updates once a day; you can also choose **Check for Updates…** in the Numage menu. Installing always asks first. Numage 1.2.0 and earlier cannot update themselves: install the current version once by hand.
+
+## Numage Pro
+
+Converts images into AIIF text prompts and renders AIIF files back into images with iO Bonzai through iO BonzaiKit. All Bonzai processing stays in the EU. Includes batch export and roundtrip. Current version: **1.1.0 (build 2)**.
+
+- macOS 27 or later
+- Apple silicon
+- An iO Bonzai API key
+- Swedish and English
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.1.0/Numage-Pro-1.1.0.zip"><img src="assets/Numage-Pro.png" alt="Numage Pro app icon" width="128" height="128"></a>
+
+[Download Numage Pro 1.1.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.1.0/Numage-Pro-1.1.0.zip) · SHA-256 `198f09197650f61093fb06deb7a099b2c299c43be4aa12cdda7dde37ffc6f7fe`
+
+Unzip and open `Numage Pro.app`; if it is not in Applications, it offers to move itself there. Enter your iO Bonzai API key in Settings; it is stored in your login Keychain. Numage Pro then checks for updates once a day; you can also choose **Check for Updates…** in the Numage Pro menu. Installing always asks first. Numage Pro 1.0.0 cannot update itself: install the current version once by hand.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
