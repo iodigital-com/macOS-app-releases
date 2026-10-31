@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>OneDrivinator</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sat, 31 Oct 2026 22:31:27 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.0.0/OneDrivinator-1.0.0.zip" length="3362984" type="application/octet-stream" sparkle:edSignature="47lD5fA8aduCruUXIkCVXaQgEgn5SnM8OVKxa++KdS1Vtup3cYpBydpYgHTcUV1aGrbSsdtP7uBHzrTAIpjEDA=="/>
+        </item>
+    </channel>
+</rss>
