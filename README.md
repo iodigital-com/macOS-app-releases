@@ -142,6 +142,21 @@ Converts images into AIIF text prompts and renders AIIF files back into images w
 
 Unzip and open `Numage Pro.app`; if it is not in Applications, it offers to move itself there. Enter your iO Bonzai API key in Settings; it is stored in your login Keychain. Numage Pro then checks for updates once a day; you can also choose **Check for Updates…** in the Numage Pro menu. Installing always asks first. Numage Pro 1.0.0 cannot update itself: install the current version once by hand.
 
+## OneDrivinator
+
+Resets OneDrive for Mac with Microsoft's own reset script, saves and reconnects your SharePoint libraries, and cleans up leftovers after review. Current version: **1.0.0 (build 18)**.
+
+- macOS 26 or later
+- English, Swedish, Danish, Dutch and French
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.0.0/OneDrivinator-1.0.0.zip"><img src="assets/OneDrivinator.png" alt="OneDrivinator app icon" width="128" height="128"></a>
+
+[Download OneDrivinator 1.0.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.0.0/OneDrivinator-1.0.0.zip) · SHA-256 `22aedf2970bbc738d7358a735db1eb182fc55ea8afdc79a71f9bc874913b90ea`
+
+Unzip and open `OneDrivinator.app`; it offers to move itself to Applications. It needs Full Disk Access, and guides you through granting it. OneDrivinator then checks for updates once a day; you can also choose **Check for Updates…** in the OneDrivinator menu. Installing always asks first.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
