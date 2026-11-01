@@ -144,16 +144,16 @@ Unzip and open `Numage Pro.app`; if it is not in Applications, it offers to move
 
 ## OneDrivinator
 
-Resets OneDrive for Mac with Microsoft's own reset script, saves and reconnects your SharePoint libraries, and cleans up leftovers after review. Current version: **1.0.0 (build 18)**.
+Resets OneDrive for Mac with Microsoft's own reset script, saves and reconnects your SharePoint libraries, and cleans up leftovers after review. Share a standard set of SharePoint sites as a `.onedrivinator` site list that colleagues open with a double-click. Current version: **1.1.0 (build 19)**.
 
 - macOS 26 or later
 - English, Swedish, Danish, Dutch and French
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.0.0/OneDrivinator-1.0.0.zip"><img src="assets/OneDrivinator.png" alt="OneDrivinator app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.0/OneDrivinator-1.1.0.zip"><img src="assets/OneDrivinator.png" alt="OneDrivinator app icon" width="128" height="128"></a>
 
-[Download OneDrivinator 1.0.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.0.0/OneDrivinator-1.0.0.zip) · SHA-256 `22aedf2970bbc738d7358a735db1eb182fc55ea8afdc79a71f9bc874913b90ea`
+[Download OneDrivinator 1.1.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.0/OneDrivinator-1.1.0.zip) · SHA-256 `2d09b5de5020b0d4e3f4dce4d9a8ca84a7e1c2305798aee4fd9fea51ca62798f`
 
 Unzip and open `OneDrivinator.app`; it offers to move itself to Applications. It needs Full Disk Access, and guides you through granting it. OneDrivinator then checks for updates once a day; you can also choose **Check for Updates…** in the OneDrivinator menu. Installing always asks first.
 
