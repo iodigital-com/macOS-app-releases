@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>IndyLock</title>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Wed, 04 Nov 2026 12:42:51 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.9.0/IndyLock-0.9.0.zip" length="5090695" type="application/octet-stream" sparkle:edSignature="V0mtJyZkTlTyetxwz3V/zY3gLbc+tK0FqRygYCSVECvd/rr1VqCmSOr7QXr5S/+f8UCQ7kC2F08rJOSxc9T4CQ=="/>
+        </item>
+    </channel>
+</rss>
