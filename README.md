@@ -79,19 +79,19 @@ Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itse
 
 ## Helpio
 
-iO's IT help desk on the Mac: search iO's intranet in Confluence and see your Jira tickets in one window. Early preview, current version: **0.3.1 (build 6)**.
+iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.4.0 (build 7)**.
 
-- macOS 27 or later
+- macOS 27 or later; AI features need Apple Intelligence
 - Apple silicon
 - Needs iO's office network or a VPN gateway that allows personal access tokens (NL, BE or BG)
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.1/Helpio-0.3.1.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.4.0/Helpio-0.4.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.3.1/Helpio-0.3.1.zip) · SHA-256 `bc258edc6a5242e8c23cf4813f644adfa243a045290215f3872cac874994ca5a`
+[Download Helpio 0.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.4.0/Helpio-0.4.0.zip) · SHA-256 `6b202ed9d5c74ba0f661a87d67b2713b7e48951a7b81f8153ae6fcb27535b9a7`
 
-Ticket titles, descriptions and comments are translated on the Mac to your preferred language; original text remains available. Apple may ask to download language packs.
+Answers, ticket summaries and urgency estimates are created on the Mac by Apple Intelligence; ticket text is translated on the Mac to your preferred language. Apple may ask to download language packs. English and Swedish user interface.
 
 Unzip and open `Helpio.app`; if it is not in Applications, Helpio offers to move itself there. Add your own Confluence and Jira personal access tokens in Helpio's settings. Helpio then checks for updates once a day; you can also choose **Check for Updates…** in the Helpio menu. Installing always asks first.
 
