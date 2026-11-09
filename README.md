@@ -172,6 +172,21 @@ Menu bar app that stops several Adobe InDesign users from editing the same `.ind
 
 Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit InDesign, then choose **Installera InDesign-pluginet…** in the IndyLock menu (administrator password required), and click the warning about `.indd` files so Finder opens InDesign documents through IndyLock. IndyLock then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the menu. Installing always asks first.
 
+## Apprentio
+
+Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor and Claude with Bonzai, Skilldex, the shared Gitea packages, code signing and the team's distribution certificates. Swedish user interface. Current version: **0.2.5 (build 11)**.
+
+- macOS 27 or later
+- Apple silicon
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.2.5/Apprentio-0.2.5.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
+
+[Download Apprentio 0.2.5](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.2.5/Apprentio-0.2.5.zip) · SHA-256 `b99f2ec09a6a0c3653ab4efcfb2aa13de460fc233e43e72b61fb43a9660c5633`
+
+Unzip and open `Apprentio.app`; it offers to move itself to Applications. Apprentio then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the Apprentio menu. Installing always asks first, and never interrupts a running installation. Apprentio 0.2.4 and earlier cannot update themselves: install 0.2.5 once by hand.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
