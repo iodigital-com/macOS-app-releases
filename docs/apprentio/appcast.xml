@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Apprentio</title>
+        <item>
+            <title>0.2.5</title>
+            <pubDate>Mon, 09 Nov 2026 20:53:10 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.2.5/Apprentio-0.2.5.zip" length="3463616" type="application/octet-stream" sparkle:edSignature="LM28VhDztwi/C/g5vpjzLF7L91bUeJrMkS7l3iFzx7joyzEZtRjtfrhPUJZiigo7imGy4mx1Hb5DjrSfUSP+DA=="/>
+        </item>
+    </channel>
+</rss>
