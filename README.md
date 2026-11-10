@@ -144,16 +144,16 @@ Unzip and open `Numage Pro.app`; if it is not in Applications, it offers to move
 
 ## OneDrivinator
 
-Resets OneDrive for Mac with Microsoft's own reset script, saves and reconnects your SharePoint libraries, and cleans up leftovers after review. Share a standard set of SharePoint sites as a `.onedrivinator` site list that colleagues open with a double-click. Current version: **1.1.1 (build 20)**.
+Resets OneDrive for Mac with Microsoft's own reset script, saves and reconnects your SharePoint libraries, and cleans up leftovers after review. Share a standard set of SharePoint sites as a `.onedrivinator` site list that colleagues open with a double-click. Current version: **1.1.2 (build 21)**.
 
 - macOS 26 or later
 - English, Swedish, Danish, Dutch and French
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.1/OneDrivinator-1.1.1.zip"><img src="assets/OneDrivinator.png" alt="OneDrivinator app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.2/OneDrivinator-1.1.2.zip"><img src="assets/OneDrivinator.png" alt="OneDrivinator app icon" width="128" height="128"></a>
 
-[Download OneDrivinator 1.1.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.1/OneDrivinator-1.1.1.zip) · SHA-256 `c32861b9be993bf5d406383b2c1ac238f86390d2d0bb7de6c45ad127ec1681e1`
+[Download OneDrivinator 1.1.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.2/OneDrivinator-1.1.2.zip) · SHA-256 `50751d20a299997b948041e5e1ef156bd9dc2c04cc4ba62b40b6d29563b0d2e4`
 
 Unzip and open `OneDrivinator.app`; it offers to move itself to Applications. It needs Full Disk Access, and guides you through granting it. OneDrivinator then checks for updates once a day; you can also choose **Check for Updates…** in the OneDrivinator menu. Installing always asks first.
 
