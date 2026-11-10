@@ -3,6 +3,14 @@
     <channel>
         <title>OneDrivinator</title>
         <item>
+            <title>1.1.3</title>
+            <pubDate>Tue, 10 Nov 2026 15:43:21 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/onedrivinator-v1.1.3/OneDrivinator-1.1.3.zip" length="5613117" type="application/octet-stream" sparkle:edSignature="qcLLg2lqXfR/upHjUmJ8eOrqepDyOysGPbq6oc2lHBC0dAQI0r4GUHNwa2oprPEWSo9+N/6NTN8s1qvJT1DRCQ=="/>
+        </item>
+        <item>
             <title>1.1.2</title>
             <pubDate>Tue, 10 Nov 2026 14:29:36 +0100</pubDate>
             <sparkle:version>21</sparkle:version>
