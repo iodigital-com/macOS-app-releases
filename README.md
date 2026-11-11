@@ -187,6 +187,21 @@ Onboarding checklist for iO developers on the Mac. Apprentio checks and helps se
 
 Unzip and open `Apprentio.app`; it offers to move itself to Applications. Apprentio then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the Apprentio menu. Installing always asks first, and never interrupts a running installation. Apprentio 0.2.4 and earlier cannot update themselves: install 0.2.5 once by hand.
 
+## Nusweeper
+
+Shows what takes up space on your Mac's disks, in Finder-style columns sorted largest first, with a storage diagnosis that explains what can be cleaned up and how. Includes the read-only command-line tool `nusweeper` for Terminal and scripts. Current version: **0.1.0 (build 3)**.
+
+- macOS 27 or later
+- Apple silicon
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.1.0/Nusweeper-0.1.0.zip"><img src="assets/Nusweeper.png" alt="Nusweeper app icon" width="128" height="128"></a>
+
+[Download Nusweeper 0.1.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.1.0/Nusweeper-0.1.0.zip) · SHA-256 `e8c41723d774c353339c40f341f5a8ecce02f3f20a7e4034eadeae91106124fb`
+
+Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
