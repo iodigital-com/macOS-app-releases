@@ -174,16 +174,16 @@ Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit In
 
 ## Apprentio
 
-Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, Claude and Xcode with Bonzai, Skilldex, the shared Gitea packages, code signing and the team's distribution certificates. Swedish user interface. Current version: **0.3.0 (build 16)**.
+Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, Claude and Xcode with Bonzai, Skilldex, the shared Gitea packages, code signing and the team's distribution certificates. Swedish user interface. Current version: **0.3.1 (build 17)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.3.0/Apprentio-0.3.0.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.3.1/Apprentio-0.3.1.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
 
-[Download Apprentio 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.3.0/Apprentio-0.3.0.zip) · SHA-256 `5d5624a588645eed3584e58d4100ed3d9b3e3ac068ad842b3ffe1536d8191e15`
+[Download Apprentio 0.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.3.1/Apprentio-0.3.1.zip) · SHA-256 `cc525fb79614f7cacebecfd566dfb3e89ad9abbd7f2c894ce8a1b6644a72db3f`
 
 Unzip and open `Apprentio.app`; it offers to move itself to Applications. Apprentio then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the Apprentio menu. Installing always asks first, and never interrupts a running installation. Apprentio 0.2.4 and earlier cannot update themselves: install 0.2.5 once by hand.
 
