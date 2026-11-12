@@ -3,6 +3,14 @@
     <channel>
         <title>Nusweeper</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Thu, 12 Nov 2026 23:10:20 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.3.1/Nusweeper-0.3.1.zip" length="3808245" type="application/octet-stream" sparkle:edSignature="s7H8NAIB8UctYzMCRoJLqfEDqFhdAq431GhJuatFkELomS4JkHhYbR/UAPRjd49GTMQ/EXyRxwl2u3UdpwTsDQ=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 12 Nov 2026 21:30:39 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
