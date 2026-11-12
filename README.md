@@ -202,6 +202,20 @@ Shows what takes up space on your Mac's disks, in Finder-style columns sorted la
 
 Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
 
+## Roomer
+
+Day overview of conference room bookings at iO, from Microsoft 365. One row per room from 08:00 to 18:00, for your own campus or any other, with favourite rooms across campuses, a room filter and a menu bar item that shows which rooms on your campus are free right now. Sign in with your iO account. Current version: **0.1.0 (build 2)**.
+
+- macOS 26 or later
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.1.0/Roomer-0.1.0.zip"><img src="assets/Roomer.png" alt="Roomer app icon" width="128" height="128"></a>
+
+[Download Roomer 0.1.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.1.0/Roomer-0.1.0.zip) · SHA-256 `f5de98eec5ffb666bd66d12db3a6631ba8e9daa9a12666aa982fc55f83a27f3a`
+
+Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer then checks for updates once a day; you can also choose **Check for Updates…** in the Roomer menu. Installing always asks first.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
