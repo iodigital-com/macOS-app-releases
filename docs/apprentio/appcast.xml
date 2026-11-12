@@ -3,6 +3,14 @@
     <channel>
         <title>Apprentio</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Thu, 12 Nov 2026 22:44:21 +0100</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.3.1/Apprentio-0.3.1.zip" length="3542019" type="application/octet-stream" sparkle:edSignature="9HuuIwPswi4VSwpbn/ur7m987FfDiZVmOTt6VyBcSoli4MyW1i1wKNVSvOlD6WabgN5P0mNDYW7WU914pcd8Dg=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 12 Nov 2026 21:38:23 +0100</pubDate>
             <sparkle:version>16</sparkle:version>
