@@ -189,18 +189,18 @@ Unzip and open `Apprentio.app`; it offers to move itself to Applications. Appren
 
 ## Nusweeper
 
-Shows what takes up space on your Mac's disks, in Finder-style columns sorted largest first, with a storage diagnosis that explains what can be cleaned up and how. Available in English, Swedish, Danish, Dutch and French. Includes the read-only command-line tool `nusweeper` for Terminal and scripts. Current version: **0.3.0 (build 7)**.
+Shows what takes up space on your Mac's disks, in Finder-style columns sorted largest first, with a storage diagnosis that explains what can be cleaned up and how. Available in English, Swedish, Danish, Dutch and French. Includes the read-only command-line tool `nusweeper` for Terminal and scripts. Current version: **0.3.1 (build 8)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.3.0/Nusweeper-0.3.0.zip"><img src="assets/Nusweeper.png" alt="Nusweeper app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.3.1/Nusweeper-0.3.1.zip"><img src="assets/Nusweeper.png" alt="Nusweeper app icon" width="128" height="128"></a>
 
-[Download Nusweeper 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.3.0/Nusweeper-0.3.0.zip) · SHA-256 `fd5aa958f213e3a092a94daee12d4538971c87e8671b90fd5f644d48291e89c5`
+[Download Nusweeper 0.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.3.1/Nusweeper-0.3.1.zip) · SHA-256 `bb74807e97ff18d7634958a9286c6c05acda61dbadd51f5b4524fba2a69db8fe`
 
-Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first. Nusweeper 0.1.0 and 0.2.0 offer 0.3.0 as an update. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
+Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first. Earlier stable versions offer 0.3.1 as an update. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
 
 ## Roomer
 
