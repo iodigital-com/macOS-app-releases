@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Roomer</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 12 Nov 2026 14:43:39 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.1.0/Roomer-0.1.0.zip" length="2518757" type="application/octet-stream" sparkle:edSignature="MrZvqmkG4Ap7XgN6kh8A/fdiccrzZP3k55GAoNyGqJ80IdPF9Ba3SurlJQ0S74dK22UNaHYLZiFl3oJJEmZMBg=="/>
+        </item>
+    </channel>
+</rss>
