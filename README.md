@@ -19,16 +19,16 @@ Unzip and drag `Zipio.app` to Applications. Zipio then checks for updates once a
 
 ## UpgradeKit Test
 
-A minimal test app for validating Sparkle updates through the UpgradeKit package, version 0.2.1 build 6. It is not a general-purpose updater for other apps.
+A minimal test app for validating Sparkle updates through the UpgradeKit package, version 0.3.1 build 8. It is not a general-purpose updater for other apps.
 
 - macOS 12 or later
 - Intel and Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.2.1/UpgradeKitTest-0.2.1.zip"><img src="assets/UpgradeKit-app-icon.png" alt="UpgradeKit app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.3.1/UpgradeKitTest-0.3.1.zip"><img src="assets/UpgradeKit-app-icon.png" alt="UpgradeKit app icon" width="128" height="128"></a>
 
-[Download UpgradeKit Test 0.2.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.2.1/UpgradeKitTest-0.2.1.zip) · SHA-256 `f1fa3a6fe929215bd871d4d5f6ebed79642796a05dcaf55b7c0f21576e755157`
+[Download UpgradeKit Test 0.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.3.1/UpgradeKitTest-0.3.1.zip) · SHA-256 `52bb82a8bf2a4381b23b89c0956038adfbbd3cc1311cabaee3030f5155f011c6`
 
 ## Nutwork
 
