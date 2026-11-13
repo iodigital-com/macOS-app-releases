@@ -204,7 +204,7 @@ Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nuswee
 
 ## Roomer
 
-Day overview of conference room bookings at iO, from Microsoft 365. One row per room across the whole day, opening at 08:00–18:00, for your own campus or any other, with favourite rooms across campuses, a room filter and a menu bar item that shows which rooms on your campus are free right now. Sign in with your iO account. Current version: **0.2.1 (build 6)**.
+Day overview of conference room bookings at iO, from Microsoft 365. One row per room across the whole day, opening at 08:00–18:00, for your own campus or any other, with favourite rooms across campuses, a room filter and a menu bar item that shows which rooms on your campus are free right now. Sign in with your iO account. Current version: **0.2.2 (build 7)**.
 
 Known issue: live room loading with a signed-in user has not yet been verified for this release. Microsoft Graph returned timeouts and a service-unavailable response during testing.
 
@@ -213,9 +213,9 @@ Known issue: live room loading with a signed-in user has not yet been verified f
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.2.1/Roomer-0.2.1.zip"><img src="assets/Roomer.png" alt="Roomer app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.2.2/Roomer-0.2.2.zip"><img src="assets/Roomer.png" alt="Roomer app icon" width="128" height="128"></a>
 
-[Download Roomer 0.2.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.2.1/Roomer-0.2.1.zip) · SHA-256 `b15d4b883843d0dc183523b9683c8eba7ada4c6f65a3525753ef8cb609b6d563`
+[Download Roomer 0.2.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.2.2/Roomer-0.2.2.zip) · SHA-256 `5e01655f026d718b569c4e38958b7dd1c07e7e9bdd190f7860e03a51ce739307`
 
 Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer then checks for updates once a day; you can also choose **Check for Updates…** in the Roomer menu. Installing always asks first.
 
