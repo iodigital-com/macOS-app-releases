@@ -219,6 +219,21 @@ Known issue: live room loading with a signed-in user has not yet been verified f
 
 Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer then checks for updates once a day; you can also choose **Check for Updates…** in the Roomer menu. Installing always asks first.
 
+## Nutag
+
+Keywords, titles, descriptions, copyright and place for image files on your own disk. AI analysis through Bonzai or Apple's on-device model proposes keywords, descriptions, translations and a geotag, which you approve before anything is saved. Metadata is written to XMP, IPTC and EXIF for compatibility with Finder, Lightroom, Bridge and Photo Mechanic; camera RAW files get an `.xmp` sidecar. Current version: **0.1.1 (build 2)**.
+
+- macOS 27 or later
+- Apple silicon
+- Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.1.1/Nutag-0.1.1.zip"><img src="assets/Nutag.png" alt="Nutag app icon" width="128" height="128"></a>
+
+[Download Nutag 0.1.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.1.1/Nutag-0.1.1.zip) · SHA-256 `cb9e4639bd00802d1bf087a1e4f87fcebe6f25a1bf0b04bb699b669574ccf721`
+
+Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.0 has no updates; install 0.1.1 by hand once.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
