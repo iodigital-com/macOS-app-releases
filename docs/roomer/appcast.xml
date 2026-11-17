@@ -3,6 +3,14 @@
     <channel>
         <title>Roomer</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Tue, 17 Nov 2026 09:08:15 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.3.0/Roomer-0.3.0.zip" length="2573342" type="application/octet-stream" sparkle:edSignature="MfShdweW39VH54OwT7MjxseoK1cTGmCE72n/erVG2CDiV1RjYi4zvudl7hErzkmpqYxE61mAzxqN93sGs+kDCg=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Fri, 13 Nov 2026 15:52:33 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
