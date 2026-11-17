@@ -204,7 +204,7 @@ Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nuswee
 
 ## Roomer
 
-Day overview of conference room bookings at iO, from Microsoft 365. One row per room across the whole day, opening at 08:00–18:00, for your own campus or any other, with favourite rooms across campuses, a room filter and a menu bar item that shows which rooms on your campus, or any campus you choose, are free right now. Plan a meeting by dragging in the timeline and open it prefilled in Outlook on the web; your own meetings are highlighted. Sign in with your iO account. Current version: **0.4.0 (build 9)**.
+Day overview of conference room bookings at iO, from Microsoft 365. One row per room across the whole day, opening at 08:00–18:00, for your own campus or any other, with favourite rooms across campuses, a room filter and a menu bar item that shows which rooms on your campus, or any campus you choose, are free right now. Plan a meeting by dragging in the timeline and open it prefilled in Outlook on the web; your own meetings are highlighted. Click a meeting or room for details. Sign in with your iO account. Current version: **0.5.0 (build 10)**.
 
 Known issue: live room loading with a signed-in user has not yet been verified for this release. Microsoft Graph returned timeouts and a service-unavailable response during testing.
 
@@ -213,9 +213,9 @@ Known issue: live room loading with a signed-in user has not yet been verified f
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.4.0/Roomer-0.4.0.zip"><img src="assets/Roomer.png" alt="Roomer app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.5.0/Roomer-0.5.0.zip"><img src="assets/Roomer.png" alt="Roomer app icon" width="128" height="128"></a>
 
-[Download Roomer 0.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.4.0/Roomer-0.4.0.zip) · SHA-256 `2e877b961783fa386c8687db9301e588e6db4502d35d60ea3790532ad07f5a57`
+[Download Roomer 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/roomer-v0.5.0/Roomer-0.5.0.zip) · SHA-256 `99add3c4fdee757adf9c3ea035a45c6348eafaddea716982ba381cbe4533d66b`
 
 Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer then checks for updates once a day; you can also choose **Check for Updates…** in the Roomer menu. Installing always asks first.
 
