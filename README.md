@@ -79,7 +79,7 @@ Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itse
 
 ## Helpio
 
-iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.4.0 (build 7)**.
+iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.7.0 (build 10)**.
 
 - macOS 27 or later; AI features need Apple Intelligence
 - Apple silicon
@@ -87,9 +87,9 @@ iO's IT help desk on the Mac: ask questions answered from iO's intranet and see 
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.4.0/Helpio-0.4.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.7.0/Helpio-0.7.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.4.0/Helpio-0.4.0.zip) · SHA-256 `6b202ed9d5c74ba0f661a87d67b2713b7e48951a7b81f8153ae6fcb27535b9a7`
+[Download Helpio 0.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.7.0/Helpio-0.7.0.zip) · SHA-256 `85ffcdfef35ca9e44adfd6d75fce56707f8ad60b6878df553571e76e7fb27ab5`
 
 Answers, ticket summaries and urgency estimates are created on the Mac by Apple Intelligence; ticket text is translated on the Mac to your preferred language. Apple may ask to download language packs. English and Swedish user interface.
 
