@@ -234,6 +234,20 @@ Keywords, titles, descriptions, copyright and place for image files on your own 
 
 Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.1 offers 0.1.2 as an update; 0.1.0 has no updates, so install the current version by hand once.
 
+## Certio
+
+Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.5.0 (build 6)**.
+
+- macOS 27 or later
+- Apple silicon
+- Signed with Developer ID and notarised by Apple
+
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.5.0/Certio-0.5.0.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
+
+[Download Certio 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.5.0/Certio-0.5.0.zip) · SHA-256 `0aef1f0eb75562648c9017a5a874d15ea22ba354d2da00ceb49a72d8f25c99b7`
+
+Unzip and open `Certio.app`; it offers to move itself to Applications. Install new versions by hand for now.
+
 ## All apps
 
 For installed apps, use the app's update command — no GitHub account is required to download. Releases tagged `-test-` are update tests, not stable versions.
