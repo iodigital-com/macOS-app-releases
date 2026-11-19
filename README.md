@@ -247,7 +247,7 @@ Internal tool for an iO team. It only works with an iO account that has been gra
 
 [Download Certio 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.5.0/Certio-0.5.0.zip) · SHA-256 `0aef1f0eb75562648c9017a5a874d15ea22ba354d2da00ceb49a72d8f25c99b7`
 
-Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Certio 0.4.1 and earlier cannot update themselves: install 0.5.0 once by hand.
+Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.5.0 as an update.
 
 ## All apps
 
