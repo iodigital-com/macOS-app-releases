@@ -3,6 +3,19 @@
     <channel>
         <title>IndyLock</title>
         <item>
+            <title>0.10.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:49:10 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=indylock&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- See what's new before you install: the update dialog lists the changes in each version.
+- New Versionsinformation item in the IndyLock menu opens the release notes for the version you have installed.
+- Fixed: the download could fail to open when unzipped by some browsers.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.10.0/IndyLock-0.10.0.zip" length="5027556" type="application/octet-stream" sparkle:edSignature="WnY1XWGn7nFR0az++M7OnXR0CyxnzueNsMtkzYmS4eVgb37WU1mLFNJddXMIDMGvOOWEc2HqLJzEbu/p+R43BQ=="/>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Wed, 04 Nov 2026 12:42:51 +0100</pubDate>
             <sparkle:version>12</sparkle:version>
