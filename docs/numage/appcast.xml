@@ -3,6 +3,18 @@
     <channel>
         <title>Numage</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:52:09 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=numage&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- See what an update contains before installing it: the update dialog now lists the changes.
+- Help > Release Notes opens the release notes for the version you have installed.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-v1.4.0/Numage-update-1.4.0.zip" length="4513393" type="application/octet-stream" sparkle:edSignature="7jzPAj0Xaep/EaBv4+/dJ2UQ6l8+QzbaQwmL1Sjv8Vmxw0DGOxtqrjzgJ1Lv9RpYzqKTtmVpbJMTbeaiBB0gBA=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Fri, 30 Oct 2026 15:52:49 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
