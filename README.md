@@ -47,7 +47,7 @@ Unzip and open `Nutwork.app`; it offers to move itself to Applications. Nutwork 
 
 ## Aivis
 
-AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intelligence or with iO Bonzai. Current version: **1.2.4 (build 7)**.
+AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intelligence or with iO Bonzai. Current version: **1.3.0 (build 8)**.
 
 - macOS 27 or later
 - Apple silicon
@@ -55,15 +55,15 @@ AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intel
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.4/Aivis-1.2.4.zip"><img src="assets/Aivis.png" alt="Aivis app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.3.0/Aivis-1.3.0.zip"><img src="assets/Aivis.png" alt="Aivis app icon" width="128" height="128"></a>
 
-[Download Aivis 1.2.4](https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.2.4/Aivis-1.2.4.zip) · SHA-256 `39bbdcfadb070fce4b3a393131445009163da79b48d241711642a87a6c82b49e`
+[Download Aivis 1.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.3.0/Aivis-1.3.0.zip) · SHA-256 `99f53d38e6bfd4cc98173486dd583ebd90c8716b05a0f522629a38d0c30fd4db`
 
 Unzip and open `Aivis.app`; if it is not in Applications, it offers to move itself there. Aivis then checks for updates automatically; you can also choose **Check for Updates…** in the Aivis menu. Installing always asks first. Aivis 1.1.0 and earlier cannot update themselves: install the current version once by hand.
 
 ## Nuvis
 
-Upload and download files and folders between Finder and Elvis DAM, with optional AI tagging. Current version: **1.2.4 (build 7)**.
+Upload and download files and folders between Finder and Elvis DAM, with optional AI tagging. Current version: **1.3.0 (build 8)**.
 
 - macOS 27 or later
 - Apple silicon
@@ -71,9 +71,9 @@ Upload and download files and folders between Finder and Elvis DAM, with optiona
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.2.4/Nuvis-1.2.4.zip"><img src="assets/Nuvis.png" alt="Nuvis app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.3.0/Nuvis-1.3.0.zip"><img src="assets/Nuvis.png" alt="Nuvis app icon" width="128" height="128"></a>
 
-[Download Nuvis 1.2.4](https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.2.4/Nuvis-1.2.4.zip) · SHA-256 `2acf0ecbffe89ac2255f0477abc01f1843e264b3819f5ffca5f2a1f9379910c3`
+[Download Nuvis 1.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.3.0/Nuvis-1.3.0.zip) · SHA-256 `8feeba3fec1ac3e0e4f49767afcf84228f9274d0a7be694c8a8d37349a152611`
 
 Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itself there. Nuvis then checks for updates automatically; you can also choose **Check for Updates…** in the Nuvis menu. Installing always asks first. Nuvis 1.1.0 and earlier cannot update themselves: install the current version once by hand.
 
