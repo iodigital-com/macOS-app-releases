@@ -3,6 +3,18 @@
     <channel>
         <title>Apprentio</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:47:16 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The update dialog shows what is new before you install.
+- Help > Release Notes opens the notes for the installed version.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.5.0/Apprentio-0.5.0.zip" length="3564689" type="application/octet-stream" sparkle:edSignature="ngphWI5Rq2QFOt8nQPBHruhpcr/EKKBqm2nFMzi7unGzKQeN6duVd+PG0JxncTpUW9UPKrNMvNrUfhkG+B2NDg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Mon, 16 Nov 2026 13:42:01 +0100</pubDate>
             <sparkle:version>19</sparkle:version>
