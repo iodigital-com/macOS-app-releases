@@ -3,6 +3,18 @@
     <channel>
         <title>Nusweeper</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:46:43 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nusweeper&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- See what a new version contains in the update dialog before you install it.
+- Help › Release Notes opens the notes for the version you have installed.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.4.0/Nusweeper-0.4.0.zip" length="3812407" type="application/octet-stream" sparkle:edSignature="XE9xwlIuNQRv41H+RVKYuiLWiy8f94hW+40GkwY02ozrvQPZ7cBL5fx/O03su0tqgH00D/0X75xPfB95m1QSBg=="/>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Thu, 12 Nov 2026 23:10:20 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
