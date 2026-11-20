@@ -3,6 +3,19 @@
     <channel>
         <title>Nugu</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 20 Nov 2026 15:45:08 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nugu&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- See what an update contains before installing it. Help > Release Notes opens the notes for the installed version.
+- Fixed: the Dock icon no longer starts out too small and then grows at launch.
+- The app icon now has the standard macOS shape with rounded corners.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nugu-v1.0.1/Nugu-1.0.1.zip" length="4487402" type="application/octet-stream" sparkle:edSignature="YoWpaWS2iwtbLBjHV8UYMmoBY0TnAXKhuLDvmVNP7ZqpUQH0wlrsbNi9JAziQppK75oFjs1+A8FFaR0wjk64CQ=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 30 Oct 2026 15:46:30 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
