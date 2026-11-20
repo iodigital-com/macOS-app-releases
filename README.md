@@ -159,18 +159,18 @@ Unzip and open `OneDrivinator.app`; it offers to move itself to Applications. It
 
 ## IndyLock
 
-Menu bar app that stops several Adobe InDesign users from editing the same `.indd` file at the same time when the files are synced through OneDrive or SharePoint. IndyLock writes its own lock file next to the document, shows who has it open, and blocks the open until the document is free. Current version: **0.9.0 (build 12)**.
+Menu bar app that stops several Adobe InDesign users from editing the same `.indd` file at the same time when the files are synced through OneDrive or SharePoint. IndyLock writes its own lock file next to the document, shows who has it open, and blocks the open until the document is free. Current version: **0.10.0 (build 14)**.
 
 - macOS 26 or later and Adobe InDesign 2026
 - Swedish
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.9.0/IndyLock-0.9.0.zip"><img src="assets/IndyLock.png" alt="IndyLock app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.10.0/IndyLock-0.10.0.zip"><img src="assets/IndyLock.png" alt="IndyLock app icon" width="128" height="128"></a>
 
-[Download IndyLock 0.9.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.9.0/IndyLock-0.9.0.zip) · SHA-256 `c21a39ebd31d1e8e847f58d2633582e60e2972155b115b6a93f98973ad8a4dbc`
+[Download IndyLock 0.10.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/indylock-v0.10.0/IndyLock-0.10.0.zip) · SHA-256 `a4ea159c347ebb8eaf3a1b94bfab73da930163f7c8fd2911cdf9d56e7f04e057`
 
-Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit InDesign, then choose **Installera InDesign-pluginet…** in the IndyLock menu (administrator password required), and click the warning about `.indd` files so Finder opens InDesign documents through IndyLock. IndyLock then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the menu. Installing always asks first.
+Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit InDesign, then choose **Installera InDesign-pluginet…** in the IndyLock menu (administrator password required), and click the warning about `.indd` files so Finder opens InDesign documents through IndyLock. IndyLock then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the menu. Installing always asks first, and the update dialog shows what is new. **Versionsinformation** in the menu opens the release notes for the installed version.
 
 ## Apprentio
 
