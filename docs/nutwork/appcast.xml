@@ -3,6 +3,18 @@
     <channel>
         <title>Nutwork</title>
         <item>
+            <title>1.7.1</title>
+            <pubDate>Fri, 20 Nov 2026 16:13:51 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nutwork&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Updates: the update dialog shows what the new version contains before it is installed.
+- Help → Release Notes opens the notes for the installed version.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.1/Nutwork-1.7.1.zip" length="4097543" type="application/octet-stream" sparkle:edSignature="byKDyPPy7cj9fooiuz1yQEOo8+xDEd00fBb+uXM64/P5/c3EzbxxQDiGB8viejWPZq7dudu5VZoo/i/7Uit+Ag=="/>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Fri, 30 Oct 2026 15:34:57 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
