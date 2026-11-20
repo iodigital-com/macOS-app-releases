@@ -4,18 +4,18 @@ Welcome to the public iO repository — here you’ll find release downloads and
 
 ## Zipio
 
-Packs files and folders into ZIP archives that open with the built-in tools in macOS and Windows. Current version: **1.5.0 (build 13)**.
+Packs files and folders into ZIP archives that open with the built-in tools in macOS and Windows. Current version: **1.6.0 (build 14)**.
 
 - macOS 26 or later
 - Intel and Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.5.0/Zipio-1.5.0.zip"><img src="assets/Zipio.png" alt="Zipio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.6.0/Zipio-1.6.0.zip"><img src="assets/Zipio.png" alt="Zipio app icon" width="128" height="128"></a>
 
-[Download Zipio 1.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.5.0/Zipio-1.5.0.zip) · SHA-256 `5f16cd312ff21cfb89f1e98226ae6ed9b072ec196749f7eee96f2932f73b50c0`
+[Download Zipio 1.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.6.0/Zipio-1.6.0.zip) · SHA-256 `0252439daf9d475ff5a37193d0962825616b5d2f4685dab09e840dd25672dc97`
 
-Unzip and drag `Zipio.app` to Applications. Zipio then checks for updates once a day; you can also choose **Check for Updates…** in the Zipio menu. Installing always asks first. Zipio 1.3.1 and earlier cannot update themselves: install 1.5.0 once by hand.
+Unzip and drag `Zipio.app` to Applications. Zipio then checks for updates once a day; you can also choose **Check for Updates…** in the Zipio menu. Installing always asks first. Zipio 1.3.1 and earlier cannot update themselves: install 1.6.0 once by hand.
 
 ## UpgradeKit Test
 

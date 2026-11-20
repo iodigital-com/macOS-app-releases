@@ -3,6 +3,18 @@
     <channel>
         <title>Zipio</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:57:24 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=zipio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The update dialog now shows what is new in the version you are about to install.
+- Help > Release Notes opens the release notes for the version you have installed.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/zipio-v1.6.0/Zipio-1.6.0.zip" length="3651502" type="application/octet-stream" sparkle:edSignature="AvGVxWYl3/LzrA26/2v65tpOB5DJVxn1T/o3PWwRfbIhP8Y0rk2JvyE6btlADzWhrtrNS+4431fy3o4lNF80AQ=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Fri, 30 Oct 2026 14:40:09 +0100</pubDate>
             <sparkle:version>13</sparkle:version>
