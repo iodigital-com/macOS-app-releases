@@ -236,18 +236,18 @@ Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then
 
 ## Certio
 
-Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.6.0 (build 7)**.
+Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.6.1 (build 8)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.6.0/Certio-0.6.0.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.6.1/Certio-0.6.1.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
 
-[Download Certio 0.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.6.0/Certio-0.6.0.zip) · SHA-256 `731489b6df81a3cb5196eaa0c6f35b32eb0170db730da568e39250084f99f50b`
+[Download Certio 0.6.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.6.1/Certio-0.6.1.zip) · SHA-256 `f69cacdc4d8f7c7fd0bc0a9b77c0a24d84bc55c108b388b0a8ef6b431347515f`
 
-Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.6.0 as an update.
+Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.6.1 as an update.
 
 ## All apps
 
