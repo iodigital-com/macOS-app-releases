@@ -3,6 +3,18 @@
     <channel>
         <title>Numage Pro</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Fri, 20 Nov 2026 15:53:23 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=numage-pro&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- See what an update contains before installing it: the update dialog now lists the changes.
+- Help > Release Notes opens the release notes for the version you have installed.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.2.0/Numage-Pro-update-1.2.0.zip" length="5413080" type="application/octet-stream" sparkle:edSignature="+befk2yWpUaxUn0DQ2DsTsYaS5Aqb8FR0ROCam+pwjSQgSagx30hYG10x5Pfw71U+pMk5s/5nVtoP4zRtBesDQ=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Sun, 08 Nov 2026 18:31:17 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
