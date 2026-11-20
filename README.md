@@ -79,7 +79,7 @@ Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itse
 
 ## Helpio
 
-iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.7.0 (build 10)**.
+iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.7.1 (build 11)**.
 
 - macOS 27 or later; AI features need Apple Intelligence
 - Apple silicon
@@ -236,18 +236,18 @@ Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then
 
 ## Certio
 
-Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.7.0 (build 10)**.
+Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.7.1 (build 11)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.7.0/Certio-0.7.0.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.7.1/Certio-0.7.1.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
 
-[Download Certio 0.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.7.0/Certio-0.7.0.zip) · SHA-256 `4d595aff8f98cdb793935c58aefce587979c95471d257971b6fe7d1758728157`
+[Download Certio 0.7.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.7.1/Certio-0.7.1.zip) · SHA-256 `7268dedec78ac83567920460cb68c284b39c023eb4e4d82d102b848da64c5b46`
 
-Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.7.0 as an update.
+Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.7.1 as an update.
 
 ## All apps
 
