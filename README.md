@@ -32,18 +32,18 @@ A minimal test app for validating Sparkle updates through the UpgradeKit package
 
 ## Nutwork
 
-Menu bar app that explains in plain language whether the network works and, if not, where the chain breaks: Wi-Fi, IP address, router, DNS, internet or VPN. Current version: **1.7.0 (build 22)**.
+Menu bar app that explains in plain language whether the network works and, if not, where the chain breaks: Wi-Fi, IP address, router, DNS, internet or VPN. Current version: **1.7.1 (build 23)**.
 
 - macOS 26 or later
 - English, Swedish, French, Dutch and Danish
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.0/Nutwork-1.7.0.zip"><img src="assets/Nutwork.png" alt="Nutwork app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.1/Nutwork-1.7.1.zip"><img src="assets/Nutwork.png" alt="Nutwork app icon" width="128" height="128"></a>
 
-[Download Nutwork 1.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.0/Nutwork-1.7.0.zip) · SHA-256 `edfe790906f9b11116839246e5d92058fc34e527ed1d7b169871d2dddbff960e`
+[Download Nutwork 1.7.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutwork-v1.7.1/Nutwork-1.7.1.zip) · SHA-256 `01d1b9134947ecbce77eb7b8e2bf6bd21706e59085715923ef65bb8c71640878`
 
-Unzip and open `Nutwork.app`; it offers to move itself to Applications. Nutwork then checks for updates once a day; you can also choose **Check for Updates…** in the Nutwork menu. Installing always asks first. Nutwork 1.5.1 and earlier cannot update themselves: install a newer version once by hand.
+Unzip and open `Nutwork.app`; it offers to move itself to Applications. Nutwork then checks for updates once a day and shows what each update contains; you can also choose **Check for Updates…** in the Nutwork menu. Installing always asks first. Nutwork 1.5.1 and earlier cannot update themselves: install a newer version once by hand.
 
 ## Aivis
 
