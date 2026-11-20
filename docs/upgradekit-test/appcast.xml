@@ -3,6 +3,17 @@
     <channel>
         <title>UpgradeKit Test</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Fri, 20 Nov 2026 15:11:40 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=upgradekit-test&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Same app as 0.4.0, rebuilt to test updating from it.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/upgradekit-test-v0.4.1/UpgradeKitTest-0.4.1.zip" length="1931658" type="application/octet-stream" sparkle:edSignature="DDu1NbLQ2ehD83UrUtLXlpBoQK73wD86MOogZh6iTu0EOVtVlxWO79c49ucv8ONa98pFLL1PzNS2ewBRLYT0BA=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 20 Nov 2026 15:09:51 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=upgradekit-test&amp;expanded=true</sparkle:fullReleaseNotesLink>
