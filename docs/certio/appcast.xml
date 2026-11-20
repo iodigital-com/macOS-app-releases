@@ -3,6 +3,14 @@
     <channel>
         <title>Certio</title>
         <item>
+            <title>0.6.2</title>
+            <pubDate>Fri, 20 Nov 2026 14:51:08 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.6.2/Certio-0.6.2.zip" length="2755526" type="application/octet-stream" sparkle:edSignature="Cu8+pBnm01XIA620SSI0p/2BGFwUiucaWCb4esAHjrfbug0J/5UeE1MwInyBlv23HvhsaZZyrS5MiMv5QnD0Cg=="/>
+        </item>
+        <item>
             <title>0.6.1</title>
             <pubDate>Fri, 20 Nov 2026 10:26:15 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
