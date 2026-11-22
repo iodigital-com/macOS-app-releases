@@ -174,16 +174,16 @@ Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit In
 
 ## Apprentio
 
-Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, VS Code, Claude and Xcode with Bonzai, Skilldex, Git accounts for Gitea, GitHub and GitLab, the shared Gitea packages, code signing and the team's distribution certificates. Swedish and English user interface. Current version: **0.5.0 (build 20)**.
+Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, VS Code, Claude and Xcode with Bonzai, Skilldex, Git accounts for Gitea, GitHub and GitLab, the shared Gitea packages, code signing and the team's distribution certificates. Swedish and English user interface. Current version: **0.6.0 (build 21)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.5.0/Apprentio-0.5.0.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.6.0/Apprentio-0.6.0.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
 
-[Download Apprentio 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.5.0/Apprentio-0.5.0.zip) · SHA-256 `89d82721f1d48a9cdb8806e93c0471764e7e9ff2bb699c733d4768c097f05150`
+[Download Apprentio 0.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.6.0/Apprentio-0.6.0.zip) · SHA-256 `153da6bc4a3d9be464ddc0cc25bec63a8fdd6b1e43753f7ab7a814e4a9e68c70`
 
 Unzip and open `Apprentio.app`; it offers to move itself to Applications. Apprentio then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the Apprentio menu. Installing always asks first, and never interrupts a running installation. Apprentio 0.2.4 and earlier cannot update themselves: install 0.2.5 once by hand.
 
