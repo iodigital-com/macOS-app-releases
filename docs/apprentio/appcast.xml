@@ -3,6 +3,18 @@
     <channel>
         <title>Apprentio</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Sun, 22 Nov 2026 18:28:56 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The Bonzai panel now lets users select a project or add a project key.
+- The selected project's key is used for copying in IDE panels, fetching models, and accessing bonzai.env, and is stored in 1Password in the same format as Bonzai Keys, including the issuer.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.6.0/Apprentio-0.6.0.zip" length="3776763" type="application/octet-stream" sparkle:edSignature="9cUsqkKCllkqEYE41L+0rNFETVBvuDu4F5JKNLHZJ6FARmvIeRPv0D4zcQy+mASEEPbekut6fB49duqhiDK5Dg=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Fri, 20 Nov 2026 15:47:16 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
