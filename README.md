@@ -221,18 +221,18 @@ Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer th
 
 ## Nutag
 
-Keywords, titles, descriptions, copyright and place for image files on your own disk. AI analysis through Bonzai or Apple's on-device model proposes keywords, descriptions, translations and a geotag, which you approve before anything is saved. Metadata is written to XMP, IPTC and EXIF for compatibility with Finder, Lightroom, Bridge and Photo Mechanic; camera RAW files get an `.xmp` sidecar. Current version: **0.1.2 (build 3)**.
+Keywords, titles, descriptions, copyright and place for image files on your own disk. AI analysis through Bonzai or Apple's on-device model proposes keywords, descriptions, translations and a geotag, which you approve before anything is saved. Bonzai costs can go to a project chosen from Bonzai Keys. Metadata is written to XMP, IPTC and EXIF for compatibility with Finder, Lightroom, Bridge and Photo Mechanic; camera RAW files get an `.xmp` sidecar. Current version: **0.2.0 (build 4)**.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.1.2/Nutag-0.1.2.zip"><img src="assets/Nutag.png" alt="Nutag app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.2.0/Nutag-0.2.0.zip"><img src="assets/Nutag.png" alt="Nutag app icon" width="128" height="128"></a>
 
-[Download Nutag 0.1.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.1.2/Nutag-0.1.2.zip) · SHA-256 `c529fd587dc1c9a22cbbbd306dd42175fe076ea0e45c071e12913614d2954f01`
+[Download Nutag 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.2.0/Nutag-0.2.0.zip) · SHA-256 `2115ad16c7d47383277fd1a0e9d911ab65ed636a13e76d174d7f74118acccf70`
 
-Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.1 offers 0.1.2 as an update; 0.1.0 has no updates, so install the current version by hand once.
+Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.1 and later offer 0.2.0 as an update; 0.1.0 has no updates, so install the current version by hand once.
 
 ## Certio
 
