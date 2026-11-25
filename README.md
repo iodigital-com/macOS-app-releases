@@ -47,7 +47,7 @@ Unzip and open `Nutwork.app`; it offers to move itself to Applications. Nutwork 
 
 ## Aivis
 
-AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intelligence or with iO Bonzai. Current version: **1.4.0 (build 10)**. Released 2026-11-25.
+AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intelligence or with iO Bonzai. Current version: **1.4.1 (build 11)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
@@ -55,9 +55,9 @@ AI tagging and descriptions for files in Elvis DAM, on this Mac with Apple Intel
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.0/Aivis-1.4.0.zip"><img src="assets/Aivis.png" alt="Aivis app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.1/Aivis-1.4.1.zip"><img src="assets/Aivis.png" alt="Aivis app icon" width="128" height="128"></a>
 
-[Download Aivis 1.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.0/Aivis-1.4.0.zip) · SHA-256 `b278298659db8ea0856c44e055ace598699fb2ab1ec155579ae4e225de811b70`
+[Download Aivis 1.4.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.1/Aivis-1.4.1.zip) · SHA-256 `eeb80fdb86cc3c8464d80ee99643fefd172f24b6ee16f1b822c323f85d88f4a2` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/aivis-v1.4.1)
 
 Unzip and open `Aivis.app`; if it is not in Applications, it offers to move itself there. Aivis then checks for updates automatically; you can also choose **Check for Updates…** in the Aivis menu. Installing always asks first. Aivis 1.1.0 and earlier cannot update themselves: install the current version once by hand.
 
@@ -65,7 +65,7 @@ Choose your own API key or a shared Bonzai project in account settings; Bonzai-s
 
 ## Nuvis
 
-Upload and download files and folders between Finder and Elvis DAM, with optional AI tagging. Current version: **1.4.0 (build 10)**. Released 2026-11-25.
+Upload and download files and folders between Finder and Elvis DAM, with optional AI tagging. Current version: **1.4.1 (build 11)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
@@ -73,9 +73,9 @@ Upload and download files and folders between Finder and Elvis DAM, with optiona
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.4.0/Nuvis-1.4.0.zip"><img src="assets/Nuvis.png" alt="Nuvis app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.4.1/Nuvis-1.4.1.zip"><img src="assets/Nuvis.png" alt="Nuvis app icon" width="128" height="128"></a>
 
-[Download Nuvis 1.4.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.4.0/Nuvis-1.4.0.zip) · SHA-256 `933c08a3f3fe358030dd270a3f52ef98917faea0d6451b2e236714d1a788faa7`
+[Download Nuvis 1.4.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.4.1/Nuvis-1.4.1.zip) · SHA-256 `5bfaf21b77f19d4bc7aeccd81ef4fee40dbbd4a49f1e92ee280860e8af16ae48` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/nuvis-v1.4.1)
 
 Unzip and open `Nuvis.app`; if it is not in Applications, it offers to move itself there. Nuvis then checks for updates automatically; you can also choose **Check for Updates…** in the Nuvis menu. Installing always asks first. Nuvis 1.1.0 and earlier cannot update themselves: install the current version once by hand.
 
@@ -83,7 +83,7 @@ Choose your own API key or a shared Bonzai project in account settings; Bonzai-s
 
 ## Helpio
 
-iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.7.1 (build 11)**.
+iO's IT help desk on the Mac: ask questions answered from iO's intranet and see your Jira tickets with AI summaries and urgency, in one window. Early preview, current version: **0.8.0 (build 11)**.
 
 - macOS 27 or later; AI features need Apple Intelligence
 - Apple silicon
@@ -91,9 +91,9 @@ iO's IT help desk on the Mac: ask questions answered from iO's intranet and see 
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.7.0/Helpio-0.7.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.8.0/Helpio-0.8.0.zip"><img src="assets/Helpio.png" alt="Helpio app icon" width="128" height="128"></a>
 
-[Download Helpio 0.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.7.0/Helpio-0.7.0.zip) · SHA-256 `85ffcdfef35ca9e44adfd6d75fce56707f8ad60b6878df553571e76e7fb27ab5`
+[Download Helpio 0.8.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.8.0/Helpio-0.8.0.zip) · SHA-256 `461dcbdb6cd459a71c4bd35dd3be88ebdb2733f3a53d863a568495c166cf186f` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/helpio-v0.8.0)
 
 Answers, ticket summaries and urgency estimates are created on the Mac by Apple Intelligence; ticket text is translated on the Mac to your preferred language. Apple may ask to download language packs. English and Swedish user interface.
 
@@ -131,7 +131,7 @@ Unzip and open `Numage.app`; if it is not in Applications, it offers to move its
 
 ## Numage Pro
 
-Converts images into AIIF text prompts and renders AIIF files back into images with iO Bonzai through iO BonzaiKit. All Bonzai processing stays in the EU. Includes batch export and roundtrip. Current version: **1.3.0 (build 6)**. Released 2026-11-25.
+Converts images into AIIF text prompts and renders AIIF files back into images with iO Bonzai through iO BonzaiKit. All Bonzai processing stays in the EU. Includes batch export and roundtrip. Current version: **1.3.1 (build 7)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
@@ -140,9 +140,11 @@ Converts images into AIIF text prompts and renders AIIF files back into images w
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.0/Numage-Pro-1.3.0.zip"><img src="assets/Numage-Pro.png" alt="Numage Pro app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.1/Numage-Pro-1.3.1.zip"><img src="assets/Numage-Pro.png" alt="Numage Pro app icon" width="128" height="128"></a>
 
-[Download Numage Pro 1.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.0/Numage-Pro-1.3.0.zip) · SHA-256 `3232d9e4b7d719ab8c5b359182280141529608e2055cf5f0e77543289090736b` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/numage-pro-v1.3.0)
+[Download Numage Pro 1.3.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.1/Numage-Pro-1.3.1.zip) · SHA-256 `1121d4d9d79f3694784f781b3e9cb43d83f91254f50151bd132ddb0bf05fcf78` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/numage-pro-v1.3.1)
+
+The manual download includes a README and example AIIF files. Automatic updates use the separate app-only archive, [Numage-Pro-update-1.3.1.zip](https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.1/Numage-Pro-update-1.3.1.zip), SHA-256 `3e9c6c82b222de60d2491c1ef6e6cc914ab1acb0a5f26e7b4c5e809cb4df4440`.
 
 Unzip and open `Numage Pro.app`; if it is not in Applications, it offers to move itself there. In Settings, choose your own Keychain API key or a shared Bonzai project key read from 1Password. Bonzai-shi is optional; each job retains its selected credential source. Numage Pro then checks for updates once a day; you can also choose **Check for Updates…** in the Numage Pro menu. Installing always asks first and shows what the update contains. Numage Pro 1.0.0 cannot update itself: install the current version once by hand.
 
@@ -193,18 +195,18 @@ Unzip and open `Apprentio.app`; it offers to move itself to Applications. Appren
 
 ## Nusweeper
 
-Shows what takes up space on your Mac's disks, in Finder-style columns sorted largest first, with a storage diagnosis that explains what can be cleaned up and how. Available in English, Swedish, Danish, Dutch and French. Includes the read-only command-line tool `nusweeper` for Terminal and scripts. Current version: **0.5.0 (build 11)**. Released 2026-11-25.
+Shows what takes up space on your Mac's disks, in Finder-style columns sorted largest first, with a storage diagnosis that explains what can be cleaned up and how. Available in English, Swedish, Danish, Dutch and French. Includes the read-only command-line tool `nusweeper` for Terminal and scripts. Current version: **0.6.0 (build 12)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.5.0/Nusweeper-0.5.0.zip"><img src="assets/Nusweeper.png" alt="Nusweeper app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.6.0/Nusweeper-0.6.0.zip"><img src="assets/Nusweeper.png" alt="Nusweeper app icon" width="128" height="128"></a>
 
-[Download Nusweeper 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.5.0/Nusweeper-0.5.0.zip) · SHA-256 `25adc414d220ee3f63b796ea4f53384a7f8294b1043854348174c47d277be46f`
+[Download Nusweeper 0.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.6.0/Nusweeper-0.6.0.zip) · SHA-256 `70a7a9a6d75423ed1efcfbba240c6845d6d003c6cc8bec94d4e918c1cb201350` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/nusweeper-v0.6.0)
 
-Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first, and the update dialog lists what is new; **Help › Release Notes** shows the notes for the installed version. Earlier stable versions offer 0.5.0 as an update. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
+Unzip and open `Nusweeper.app`; it offers to move itself to Applications. Nusweeper then checks for updates once a day; you can also choose **Check for Updates…** in the Nusweeper menu. Installing always asks first, and the update dialog lists what is new; **Help › Release Notes** shows the notes for the installed version. Earlier stable versions offer 0.6.0 as an update. For complete results, give Nusweeper Full Disk Access in System Settings › Privacy & Security.
 
 ## Roomer
 
@@ -225,18 +227,18 @@ Unzip and open `Roomer.app`; it offers to move itself to Applications. Roomer th
 
 ## Nutag
 
-Keywords, titles, descriptions, copyright and place for image files on your own disk. AI analysis through Bonzai or Apple's on-device model proposes keywords, descriptions, translations and a geotag, which you approve before anything is saved. Bonzai costs can go to a project chosen from Bonzai Keys. Metadata is written to XMP, IPTC and EXIF for compatibility with Finder, Lightroom, Bridge and Photo Mechanic; camera RAW files get an `.xmp` sidecar. Current version: **0.2.1 (build 5)**. Released 2026-11-25.
+Keywords, titles, descriptions, copyright and place for image files on your own disk. AI analysis through Bonzai or Apple's on-device model proposes keywords, descriptions, translations and a geotag, which you approve before anything is saved. Bonzai costs can go to a project chosen from Bonzai-shi. Metadata is written to XMP, IPTC and EXIF for compatibility with Finder, Lightroom, Bridge and Photo Mechanic; camera RAW files get an `.xmp` sidecar. Current version: **0.3.0 (build 6)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.2.1/Nutag-0.2.1.zip"><img src="assets/Nutag.png" alt="Nutag app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.3.0/Nutag-0.3.0.zip"><img src="assets/Nutag.png" alt="Nutag app icon" width="128" height="128"></a>
 
-[Download Nutag 0.2.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.2.1/Nutag-0.2.1.zip) · SHA-256 `791e88e00ea3698176c5a92157ca1d5f1c336c6af945437129f638986dd11722`
+[Download Nutag 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.3.0/Nutag-0.3.0.zip) · SHA-256 `b115ebd68d94ec12fb742c5c272c58476b4dc0c6145e07009feedc06f546e81c` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/nutag-v0.3.0)
 
-Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.1 and later offer 0.2.1 as an update; 0.1.0 has no updates, so install the current version by hand once.
+Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then checks for updates once a day; you can also choose **Check for Updates…** in the Nutag menu. Installing always asks first. 0.1.1 and later offer 0.3.0 as an update; 0.1.0 has no updates, so install the current version by hand once.
 
 ## Certio
 

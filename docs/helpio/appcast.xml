@@ -3,6 +3,17 @@
     <channel>
         <title>Helpio</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Wed, 25 Nov 2026 22:28:05 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Help > Release Notes opens the installed version's notes.
+- Future update dialogs show a short bulleted list of changes.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/helpio-v0.8.0/Helpio-0.8.0.zip" length="2937824" type="application/octet-stream" sparkle:edSignature="I0qFlK2HEwQF5von+OQAKa2WIgsUPQvBrFWhCngOmxa/kWk7qKOFqXh7D6XaAOf+xP8teSYUmHGTIItbkUhODQ=="/>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Thu, 19 Nov 2026 21:57:23 +0100</pubDate>
             <sparkle:version>10</sparkle:version>

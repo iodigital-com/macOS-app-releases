@@ -3,6 +3,17 @@
     <channel>
         <title>Aivis</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Wed, 25 Nov 2026 22:27:59 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Project keys work with the updated shared registry.
+- Existing personal API-key mode remains available.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.1/Aivis-1.4.1.zip" length="3682914" type="application/octet-stream" sparkle:edSignature="KCJVocCI8lvAbfSZDAzJ6Hhg0X8t39JjLpQpRxqkFcC6kaN6c+3GaESwCBa+4ds4atgB/vSMvw0HvLtVmWsiDA=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Wed, 25 Nov 2026 08:51:19 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=aivis&amp;expanded=true</sparkle:fullReleaseNotesLink>

@@ -31,11 +31,7 @@
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[- Related messages are grouped together, with a count on each group.
-- New options for copying message details.
-- Messages flagged in Outlook show a flag.
-- Help > Release Notes shows what changed in the installed version.
-- Fixed: folder settings now take effect immediately.
+            <description sparkle:format="markdown"><![CDATA[- Bug fixes and stability improvements.
 ]]></description>
             <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.7.0/Certio-0.7.0.zip" length="2818494" type="application/octet-stream" sparkle:edSignature="EPpPoUxcfFRoWWwjgVSSofaYuxnJPwTCJ+hFwicgEg34JSkhx1dBTFYZUcOoVc3epyETozCmfxLEHWP81grmAQ=="/>
         </item>

@@ -3,6 +3,16 @@
     <channel>
         <title>Numage Pro</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Wed, 25 Nov 2026 22:28:08 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Project mode works again after the shared registry is updated.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.1/Numage-Pro-update-1.3.1.zip" length="5652487" type="application/octet-stream" sparkle:edSignature="U0wg8wnRctimDSutekTk06cqXFg6TKk1dSDzz7lO3Efw5LvXeI1rDc/7v4sngG6ae9UK3HIE33hYoM+hT+cFCw=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 25 Nov 2026 08:51:36 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=numage-pro&amp;expanded=true</sparkle:fullReleaseNotesLink>

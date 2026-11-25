@@ -3,6 +3,17 @@
     <channel>
         <title>Nusweeper</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 25 Nov 2026 22:28:07 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Project keys work with the updated shared registry.
+- Existing selected projects are retained.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.6.0/Nusweeper-0.6.0.zip" length="4287307" type="application/octet-stream" sparkle:edSignature="ZPOLgw39j0aBYuyktfI/Z7zC5ct9R/t9FAP6jcIzK3Kz7eOrW3tKF05NNGClktOfpMbRW2brRoB1k+diJGAfAA=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Wed, 25 Nov 2026 08:51:45 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nusweeper&amp;expanded=true</sparkle:fullReleaseNotesLink>

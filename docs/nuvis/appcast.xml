@@ -3,6 +3,17 @@
     <channel>
         <title>Nuvis</title>
         <item>
+            <title>1.4.1</title>
+            <pubDate>Wed, 25 Nov 2026 22:28:04 +0100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Project keys work with the updated shared registry.
+- Existing personal API-key mode remains available.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nuvis-v1.4.1/Nuvis-1.4.1.zip" length="3950772" type="application/octet-stream" sparkle:edSignature="abNwP9i6G7Ur0jOanz+3trLCK2gO9nFSMoaSNOumGL0oqvzPr/TV4f3WWsRNcQapZsF7VLeVpYY23GeKNAm2Dw=="/>
+        </item>
+        <item>
             <title>1.4.0</title>
             <pubDate>Wed, 25 Nov 2026 08:51:28 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nuvis&amp;expanded=true</sparkle:fullReleaseNotesLink>

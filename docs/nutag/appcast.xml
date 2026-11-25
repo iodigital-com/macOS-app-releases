@@ -3,6 +3,17 @@
     <channel>
         <title>Nutag</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 22:27:28 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Shared-project registry errors appear in Settings with a reload action.
+- Selection is retained and failures no longer silently switch keys.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.3.0/Nutag-0.3.0.zip" length="9568796" type="application/octet-stream" sparkle:edSignature="LhRnCLI+eEBvINZlCgrFTqomcVWyUtVJxPjH8tsgdn8t0gODW8wub14AOpnrQrZCPmtDws1U+4bIaq9sEqTPBg=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Wed, 25 Nov 2026 08:52:11 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nutag&amp;expanded=true</sparkle:fullReleaseNotesLink>
