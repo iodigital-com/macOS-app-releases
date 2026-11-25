@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Claude Launcher</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 25 Nov 2026 10:15:13 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Checks for updates automatically.
+- Users can choose Check for Updates in the app menu.
+- Installation always asks for approval.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.0/Claude-Launcher-0.2.0.zip" length="3349532" type="application/octet-stream" sparkle:edSignature="rsf+wHcO8gNiJNCWUZ9azYDzWS++HKpJcoE0rWs0OnAa0XHx6/STdsfUZ4DKzXK4sZaZ/mXK0E7fAr90pj63BA=="/>
+        </item>
+    </channel>
+</rss>

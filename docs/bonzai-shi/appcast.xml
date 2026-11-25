@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bonzai-shi</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 10:15:41 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Checks for updates automatically.
+- Users can choose Check for Updates in the app menu.
+- Installation always asks for approval.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.3.0/Bonzai-shi-0.3.0.zip" length="2648286" type="application/octet-stream" sparkle:edSignature="woizCR+tF8SEsFCCwA1CTrIPFqu2DB/Wq7QVAVVhDIj7a3k+SIa/6xMPuhfd3nTNYpQI+MHWcOfHNmLOXVaTCA=="/>
+        </item>
+    </channel>
+</rss>

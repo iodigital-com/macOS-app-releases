@@ -255,49 +255,62 @@ Unzip and open `Certio.app`; it offers to move itself to Applications. Certio th
 
 ## Bonzai-shi
 
-Manages Bonzai project keys in 1Password, sorted by brand and project. Current version: **0.2.0 (build 2)**. Released 2026-11-25.
+Manages Bonzai project keys in 1Password, sorted by brand and project. Current version: **0.3.0 (build 3)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - 1Password CLI and an iO Bonzai API key
 - Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
 
-[Download Bonzai-shi 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.2.0/Bonzai-shi-0.2.0.zip) · SHA-256 `cae6f433bf77fd9b1d0d13f261c371a483498da803370f7241890abce85ecf17` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/bonzai-shi-v0.2.0)
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.3.0/Bonzai-shi-0.3.0.zip"><img src="assets/Bonzai-shi.png" alt="Bonzai-shi app icon" width="128" height="128"></a>
 
-Unzip and open `Bonzai-shi.app`; it offers to move itself to Applications. Install manually; no automatic updates are configured.
+[Download Bonzai-shi 0.3.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.3.0/Bonzai-shi-0.3.0.zip) · SHA-256 `8b37222d0eca24d0043338e757de73adee536b698571616346cfa88ec9c4c169` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/bonzai-shi-v0.3.0)
 
-Bonzai-shi is a separate product with bundle ID `com.iodigital.it.bonzaishi`. This manual release does not replace or update any other key-manager app. App-specific preferences and window state are not migrated.
+Quit the previous Bonzai-shi, unzip and drag `Bonzai-shi.app` itself to Applications with Finder. **Install 0.3.0 manually once:** 0.2.0 and earlier have no configured updates. Future versions are checked automatically; **Check for Updates…** is in the app menu and **Help → Release Notes** opens the installed version's notes. Installing always asks first, and update relaunch waits for active key operations.
+
+[Stable update feed](https://iodigital-com.github.io/macOS-app-releases/bonzai-shi/appcast.xml). Bonzai-shi is a separate product with bundle ID `com.iodigital.it.bonzaishi`. Its dedicated feed does not replace, redirect or update Bonzai Key or any other key-manager app. App-specific preferences and window state are not migrated.
 
 ## Cursor Launcher
 
-Opens separate Cursor profiles for Bonzai project keys. Current version: **0.1.2 (build 4)**. Released 2026-11-25.
+Opens separate Cursor profiles for Bonzai project keys. Current version: **0.2.0 (build 5)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - 1Password CLI and registered Bonzai keys; Cursor
 - Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
 
-[Download Cursor Launcher 0.1.2](https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.1.2/Cursor-Launcher-0.1.2.zip) · SHA-256 `c1e9e7864262e14f871ee7c76f46de866240ede93e70c93193bea9a116e40172` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/cursor-v0.1.2)
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.0/Cursor-Launcher-0.2.0.zip"><img src="assets/Cursor-Launcher.png" alt="Cursor Launcher app icon" width="128" height="128"></a>
 
-Unzip and open `Cursor Launcher.app`; it offers to move itself to Applications. Install manually; no automatic updates are configured.
+[Download Cursor Launcher 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.0/Cursor-Launcher-0.2.0.zip) · SHA-256 `b0223da2104ddbc9d888dde3d0266deee4228331f0c0965813e9f2b6b0dbc5d4` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/cursor-v0.2.0)
+
+Quit the previous launcher, unzip and drag `Cursor Launcher.app` itself to Applications with Finder. **Install 0.2.0 manually once:** 0.1.2 and earlier have no configured updates. Future versions are checked automatically; **Check for Updates…** and **Release Notes** are in the menu bar menu. Installing always asks first, and update relaunch waits for active profile launches. Existing profiles are kept.
+
+[Stable update feed](https://iodigital-com.github.io/macOS-app-releases/cursor/appcast.xml).
 
 From Bonzai Launcher: delete the old app and turn on **Open at Login** again in Cursor Launcher; profiles are kept.
 
 ## Claude Launcher
 
-Opens separate Claude Desktop profiles for Bonzai project keys. Current version: **0.1.1 (build 2)**. Released 2026-11-25.
+Opens separate Claude Desktop profiles for Bonzai project keys. Current version: **0.2.0 (build 3)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - 1Password CLI and registered Bonzai keys; Claude Desktop
 - Signed with Developer ID and notarised by Apple
+- Update archives include Sparkle EdDSA signatures
 
-[Download Claude Launcher 0.1.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.1.1/Claude-Launcher-0.1.1.zip) · SHA-256 `4d997a2e4dceed21e589d1bcca96b56623b62a27f8c20a694b72d6990f6417c1` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/claude-v0.1.1)
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.0/Claude-Launcher-0.2.0.zip"><img src="assets/Claude-Launcher.png" alt="Claude Launcher app icon" width="128" height="128"></a>
 
-Unzip and open `Claude Launcher.app`; it offers to move itself to Applications. Install manually; no automatic updates are configured.
+[Download Claude Launcher 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.0/Claude-Launcher-0.2.0.zip) · SHA-256 `761138241d00af85a26ce4b7d2f0d97094ba5f6c62d4519e72c1c2b7aa2e7df1` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/claude-v0.2.0)
+
+Quit the previous launcher, unzip and drag `Claude Launcher.app` itself to Applications with Finder. **Install 0.2.0 manually once:** 0.1.1 and earlier have no configured updates. Future versions are checked automatically; **Check for Updates…** and **Release Notes** are in the menu bar menu. Installing always asks first, and update relaunch waits for active profile launches. Existing profiles are kept.
+
+[Stable update feed](https://iodigital-com.github.io/macOS-app-releases/claude/appcast.xml).
 
 ## All apps
 
-For installed apps with updates configured, use the app's update command — no GitHub account is required to download. Bonzai-shi, Cursor Launcher and Claude Launcher currently require manual downloads. Releases tagged `-test-` are update tests, not stable versions.
+For installed apps with updates configured, use the app's update command — no GitHub account is required to download. Bonzai-shi 0.3.0, Cursor Launcher 0.2.0 and Claude Launcher 0.2.0 are the first updater-enabled versions and must be installed manually once; subsequent updates use their separate signed feeds. Releases tagged `-test-` are update tests, not stable versions.
 
 [Full releases](https://github.com/iodigital-com/macOS-app-releases/releases)
