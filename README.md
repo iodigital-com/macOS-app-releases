@@ -180,16 +180,16 @@ Unzip and open `IndyLock.app`; it offers to move itself to Applications. Quit In
 
 ## Apprentio
 
-Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, VS Code, Claude and Xcode with Bonzai, Skilldex, Git accounts for Gitea, GitHub and GitLab, the shared Gitea packages, code signing and the team's distribution certificates. Swedish and English user interface. Current version: **0.7.0 (build 22)**. Released 2026-11-25.
+Onboarding checklist for iO developers on the Mac. Apprentio checks and helps set up Xcode, Homebrew, 1Password, Cursor, VS Code, Claude and Xcode with Bonzai, Skilldex, Git accounts for Gitea, GitHub and GitLab, the shared Gitea packages, code signing and the team's distribution certificates. Swedish and English user interface. Current version: **0.8.0 (build 23)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.7.0/Apprentio-0.7.0.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.8.0/Apprentio-0.8.0.zip"><img src="assets/Apprentio.png" alt="Apprentio app icon" width="128" height="128"></a>
 
-[Download Apprentio 0.7.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.7.0/Apprentio-0.7.0.zip) · SHA-256 `cc597ce5b93ae24dab72fc9b6e9791669b94eac141a000fc4dbfa46a12a0c8c3`
+[Download Apprentio 0.8.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.8.0/Apprentio-0.8.0.zip) · SHA-256 `f736b1d9d5e2fd0ad4cca2c4150b98cebf37a17c28f31eecaff8279740307160`
 
 Unzip and open `Apprentio.app`; it offers to move itself to Applications. Apprentio then checks for updates once a day; you can also choose **Sök efter uppdateringar…** in the Apprentio menu. Installing always asks first, and never interrupts a running installation. Apprentio 0.2.4 and earlier cannot update themselves: install 0.2.5 once by hand.
 
@@ -242,18 +242,18 @@ Unzip and open `Nutag.app`; it offers to move itself to Applications. Nutag then
 
 ## Certio
 
-Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.8.0 (build 12)**. Released 2026-11-25.
+Internal tool for an iO team. It only works with an iO account that has been granted access. Current version: **0.8.1 (build 13)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.8.0/Certio-0.8.0.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.8.1/Certio-0.8.1.zip"><img src="assets/Certio.png" alt="Certio app icon" width="128" height="128"></a>
 
-[Download Certio 0.8.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.8.0/Certio-0.8.0.zip) · SHA-256 `4c9874f589e7a798e1152c9adb45dbb6ef251312af2850a46f506dda2422fa0f`
+[Download Certio 0.8.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.8.1/Certio-0.8.1.zip) · SHA-256 `cd408a59bb7b41da43d6d283a39c60f3abf5c560418ba03ed04a6b47068231f5`
 
-Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.8.0 as an update.
+Unzip and open `Certio.app`; it offers to move itself to Applications. Certio then checks for updates once a day; you can also choose **Check for Updates…** in the Certio menu. Installing always asks first. Earlier versions offer 0.8.1 as an update.
 
 ## Bonzai-shi
 

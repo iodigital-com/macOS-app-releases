@@ -3,6 +3,19 @@
     <channel>
         <title>Apprentio</title>
         <item>
+            <title>0.8.0</title>
+            <pubDate>Wed, 25 Nov 2026 21:38:21 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- The shared Bonzai key manager is now named Bonzai-shi.
+- Users must explicitly select a project key or the legacy Bonzai item.
+- A removed selected key or an unavailable registry results in an error instead of silent fallback.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.8.0/Apprentio-0.8.0.zip" length="3878307" type="application/octet-stream" sparkle:edSignature="U+RomhBs2FndAV3qjF+fR7vfLl7EDNU7eBLU7T74QHpxfBupxTOkFl/k+zjm4d3Ej+XAcrNE2KWs8iNmwNt7Ag=="/>
+        </item>
+        <item>
             <title>0.7.0</title>
             <pubDate>Wed, 25 Nov 2026 08:51:52 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
