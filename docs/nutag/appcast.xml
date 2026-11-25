@@ -3,6 +3,17 @@
     <channel>
         <title>Nutag</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 25 Nov 2026 08:52:11 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nutag&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Bug fixes and stability improvements.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nutag-v0.2.1/Nutag-0.2.1.zip" length="9506333" type="application/octet-stream" sparkle:edSignature="iYCKpPjKWjgb6fluOXlITEDicvhYt9pNnNoCAeHqBK9dcnPrE2rDNpNbxHWWBND7jMUxsOMdxiftYoJUk96MCw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Sun, 22 Nov 2026 18:03:01 +0100</pubDate>
             <sparkle:version>4</sparkle:version>

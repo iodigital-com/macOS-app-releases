@@ -3,6 +3,20 @@
     <channel>
         <title>Numage Pro</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 08:51:36 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=numage-pro&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Users can now explicitly select an own Keychain API key or a project from the shared Bonzai registry with a key read from 1Password, with jobs retaining the choice for all stages; Bonzai-shi is optional.
+- Numage Pro defaults to Bonzai Vision Describe for image descriptions and the Bonzai Executor chat role for text compression and rewrites; image generation retains the Studio and Draft roles.
+- Cost estimates are loaded only on request, rather than resolving credentials when opening description controls.
+- Roundtrips stop on content refusals and retain completed rounds without automatically rewriting or retrying the refused prompt.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/numage-pro-v1.3.0/Numage-Pro-update-1.3.0.zip" length="5582270" type="application/octet-stream" sparkle:edSignature="CUL2PJSoyY9l1wv6H/Wr2YDu9NLfqcQWmmvO8IKWwMeoaVwXbVbLb/WQZ06twfgV4MZ/xG5lCVFtvmusKOo0CQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Fri, 20 Nov 2026 15:53:23 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=numage-pro&amp;expanded=true</sparkle:fullReleaseNotesLink>

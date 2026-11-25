@@ -3,6 +3,18 @@
     <channel>
         <title>Apprentio</title>
         <item>
+            <title>0.7.0</title>
+            <pubDate>Wed, 25 Nov 2026 08:51:52 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Bonzai keys now include a brand, project, and key name, with the key name distinguishing between keys in a project.
+- When pasting a key, brand, project, and key name are automatically populated from Bonzai when applicable—typed fields are preserved.
+- The key picker displays the key name with its brand and project, sorted by brand.  ]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/apprentio-v0.7.0/Apprentio-0.7.0.zip" length="3815762" type="application/octet-stream" sparkle:edSignature="CU6XK5EPWUxbBO/ZdEaHF/gclrv5PumicEyJaSZfoh06g82KmN7dObPJcw+YBRnuAeowHHSXSG8I0TAxCHH2AQ=="/>
+        </item>
+        <item>
             <title>0.6.0</title>
             <pubDate>Sun, 22 Nov 2026 18:28:56 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=apprentio&amp;expanded=true</sparkle:fullReleaseNotesLink>

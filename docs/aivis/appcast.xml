@@ -3,6 +3,20 @@
     <channel>
         <title>Aivis</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Wed, 25 Nov 2026 08:51:19 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=aivis&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Users can choose between their existing API key or a project key.
+- Optional key management is linked to account settings; the app does not open automatically.
+- Default image tagging uses predefined aliases; custom models are still available.
+- Each job keeps its credential selection during upload delays and retries; credential issues do not impact engine choice.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/aivis-v1.4.0/Aivis-1.4.0.zip" length="3624288" type="application/octet-stream" sparkle:edSignature="4lA5/D8kH/5eeAzFiMLxUNriV1h6ve2DDWIChDOCBJmxj5UR7IoRhcdKnI+Vm7VOnDUNpRgXVzeiDlwJi3HKAg=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Fri, 20 Nov 2026 15:56:26 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=aivis&amp;expanded=true</sparkle:fullReleaseNotesLink>

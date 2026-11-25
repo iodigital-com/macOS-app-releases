@@ -3,6 +3,19 @@
     <channel>
         <title>Nusweeper</title>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 25 Nov 2026 08:51:45 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nusweeper&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Choose a shared Bonzai project backed by 1Password, or explicitly keep using your own Keychain key. Bonzai-shi is recommended but optional.
+- The Bonzai Settings tab uses the Bonzai tree icon instead of a generic symbol.
+- Credential settings show only the selected source's controls and status, remember the project when switching sources, and load models only on explicit request using that source.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/nusweeper-v0.5.0/Nusweeper-0.5.0.zip" length="4215099" type="application/octet-stream" sparkle:edSignature="sWpLM8ktoGMLbDve+VM/wFG0XTVXlGDVotdUpcJQuPNdt0aqHQKDSFOFreMKtOWkKzEHnZ0VxGm39u0A9ZSvDg=="/>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 20 Nov 2026 15:46:43 +0100</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=nusweeper&amp;expanded=true</sparkle:fullReleaseNotesLink>
