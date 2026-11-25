@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Claude Launcher</title>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 21:31:45 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Launchers read the shared SQLite key registry and refresh menus after key changes.
+        - If the registry is unavailable, they clear stale key menus.
+        ]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.3.0/Claude-Launcher-0.3.0.zip" length="3415053" type="application/octet-stream" sparkle:edSignature="JPJmQTqQw+fLyGU3U8b4poHfamsOybUtl6G6YljqulIrl2Eb0stEZFMEcwiGsrucbmrsHT0upY2t0xt09yg5AQ=="/>
+        </item>
         <item>
             <title>0.2.1</title>
             <pubDate>Wed, 25 Nov 2026 14:52:20 +0100</pubDate>

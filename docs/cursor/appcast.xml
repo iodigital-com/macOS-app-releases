@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Cursor Launcher</title>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>0.3.0</title>
+            <pubDate>Wed, 25 Nov 2026 21:31:45 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Launchers read the shared SQLite key registry and refresh menus after key changes.
+        - If the registry is unavailable, they clear stale key menus.
+        ]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.3.0/Cursor-Launcher-0.3.0.zip" length="2695835" type="application/octet-stream" sparkle:edSignature="RbqeAiJSj6cScxi/t1u7C1aoR1NBfdWtwQ2ZLG7sUW/adaGvd/X4HPKH983hA99UqvtXZFnsL9TojqHng8XFBQ=="/>
+        </item>
         <item>
             <title>0.2.1</title>
             <pubDate>Wed, 25 Nov 2026 14:51:47 +0100</pubDate>

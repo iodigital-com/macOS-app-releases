@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Bonzai-shi</title>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>0.4.0</title>
+            <pubDate>Wed, 25 Nov 2026 21:31:48 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Initialize SQLite with explicit setup, import JSON while preserving key identities, or recover from interrupted setup; decommission old consumers first.
+        - GUI and CLI link exact Git repository roots to keys with explicit overrides and visible failures for missing keys.
+        - CLI launches foreground Claude Code with selected keys and temporary session auth; `--link` confirms before saving, and cancellation prevents launch.
+        - GUI refreshes after CLI updates; corrected terminal handoff avoids startup issues and restores the terminal on exit.
+        ]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.4.0/Bonzai-shi-0.4.0.zip" length="2727325" type="application/octet-stream" sparkle:edSignature="bDpIUm0MGqJ/4xp0GgAs37LphwFO8D7qbXjYT9n/KMe3Q228XbgzidMGcBGsbGHilqhwbLUbml6XFJvwmDraDw=="/>
+        </item>
         <item>
             <title>0.3.0</title>
             <pubDate>Wed, 25 Nov 2026 10:15:41 +0100</pubDate>
