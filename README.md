@@ -273,7 +273,7 @@ Quit the previous Bonzai-shi, unzip and drag `Bonzai-shi.app` itself to Applicat
 
 ## Cursor Launcher
 
-Opens separate Cursor profiles for Bonzai project keys. Current version: **0.2.0 (build 5)**. Released 2026-11-25.
+Opens separate Cursor profiles for Bonzai project keys. Current version: **0.2.1 (build 6)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
@@ -281,9 +281,9 @@ Opens separate Cursor profiles for Bonzai project keys. Current version: **0.2.0
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.0/Cursor-Launcher-0.2.0.zip"><img src="assets/Cursor-Launcher.png" alt="Cursor Launcher app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.1/Cursor-Launcher-0.2.1.zip"><img src="assets/Cursor-Launcher.png" alt="Cursor Launcher app icon" width="128" height="128"></a>
 
-[Download Cursor Launcher 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.0/Cursor-Launcher-0.2.0.zip) · SHA-256 `b0223da2104ddbc9d888dde3d0266deee4228331f0c0965813e9f2b6b0dbc5d4` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/cursor-v0.2.0)
+[Download Cursor Launcher 0.2.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/cursor-v0.2.1/Cursor-Launcher-0.2.1.zip) · SHA-256 `56085c09eafb0914abadd3d2e59e4fb4188af0c6ebdb2ba0f793f3a762f5d220` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/cursor-v0.2.1)
 
 Quit the previous launcher, unzip and drag `Cursor Launcher.app` itself to Applications with Finder. **Install 0.2.0 manually once:** 0.1.2 and earlier have no configured updates. Future versions are checked automatically; **Check for Updates…** and **Release Notes** are in the menu bar menu. Installing always asks first, and update relaunch waits for active profile launches. Existing profiles are kept.
 
@@ -293,7 +293,7 @@ From Bonzai Launcher: delete the old app and turn on **Open at Login** again in 
 
 ## Claude Launcher
 
-Opens separate Claude Desktop profiles for Bonzai project keys. Current version: **0.2.0 (build 3)**. Released 2026-11-25.
+Opens separate Claude Desktop profiles for Bonzai project keys. Current version: **0.2.1 (build 4)**. Released 2026-11-25.
 
 - macOS 27 or later
 - Apple silicon
@@ -301,9 +301,9 @@ Opens separate Claude Desktop profiles for Bonzai project keys. Current version:
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.0/Claude-Launcher-0.2.0.zip"><img src="assets/Claude-Launcher.png" alt="Claude Launcher app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.1/Claude-Launcher-0.2.1.zip"><img src="assets/Claude-Launcher.png" alt="Claude Launcher app icon" width="128" height="128"></a>
 
-[Download Claude Launcher 0.2.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.0/Claude-Launcher-0.2.0.zip) · SHA-256 `761138241d00af85a26ce4b7d2f0d97094ba5f6c62d4519e72c1c2b7aa2e7df1` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/claude-v0.2.0)
+[Download Claude Launcher 0.2.1](https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.1/Claude-Launcher-0.2.1.zip) · SHA-256 `d126fa542e63c518de479f0b0cb8fd9a972bc6b68a99fa5c9ea071697ca5cc78` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/claude-v0.2.1)
 
 Quit the previous launcher, unzip and drag `Claude Launcher.app` itself to Applications with Finder. **Install 0.2.0 manually once:** 0.1.1 and earlier have no configured updates. Future versions are checked automatically; **Check for Updates…** and **Release Notes** are in the menu bar menu. Installing always asks first, and update relaunch waits for active profile launches. Existing profiles are kept.
 
