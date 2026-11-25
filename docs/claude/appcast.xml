@@ -3,6 +3,18 @@
     <channel>
         <title>Claude Launcher</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Wed, 25 Nov 2026 14:52:20 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Menus now displays unique key names without repeated "Start/Focus" prefixes or app names.
+- The Cursor or Claude icon highlights active profiles and updates automatically when profiles start or end.
+- The menu opens Bonzai-shi for key management.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/claude-v0.2.1/Claude-Launcher-0.2.1.zip" length="3355269" type="application/octet-stream" sparkle:edSignature="YTDQI8tIqutlQO7b7Nc+wJdDODl6Ak9pj+FZAFrINd0cNDynrBuAhzoy7+usNH6q/yQyglxmPSb62d8pI03XDw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 25 Nov 2026 10:15:13 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
