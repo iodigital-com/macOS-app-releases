@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Bonzai-shi</title>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Thu, 26 Nov 2026 23:04:36 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Run cursor opens exact linked folders or allows temporary key selection in per-key Cursor profiles.
+- App bundles its matching CLI and offers menu installation/upgrades while retaining previous binaries.
+- Link/relink offers interactive selection and confirmation; listings show names.
+- Doctor checks local dependency presence and registry without credential/network access.
+- Status shows exact folder key and warnings; GUI sidebar shows link indicator/count.
+- Folder links support ordinary directories, optional Git-root protection, and saved links survive Git changes.
+- Sessions no longer require Node.js; Ctrl-Z returns to the shell and fg resumes with terminal settings restored; a terminal startup failure is fixed.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.5.0/Bonzai-shi-0.5.0.zip" length="5202138" type="application/octet-stream" sparkle:edSignature="TxKfGA36Di8E38rxIZ7ghHfXkz+wdjMcNkowyCtauJ7tcofp6e5xb2SYDlv7aUsv+hIAv5wRPnZbb/hqOsTaDQ=="/>
+        </item>
         <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
             <title>0.4.0</title>
             <pubDate>Wed, 25 Nov 2026 21:31:48 +0000</pubDate>
