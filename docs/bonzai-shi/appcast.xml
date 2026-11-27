@@ -3,6 +3,20 @@
     <channel>
         <title>Bonzai-shi</title>
         <item>
+            <title>0.6.0</title>
+            <pubDate>Fri, 27 Nov 2026 12:56:52 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- New Bonzai-shi release: Copy API Key and inline Show API Key from 1Password with automatic clipboard expiry.
+- Existing managed CLI automatically follows app updates without prompts.
+- CLI doctor groups diagnostics and PATH help.
+- One-click CLI installation and safe removal.
+- Fix key access after Touch ID and key checks and prevent stalled installation verification.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.6.0/Bonzai-shi-0.6.0.zip" length="5356962" type="application/octet-stream" sparkle:edSignature="/H6BQbkzwYgSyoSiGWFF7wHvvoIJ2Yn1vxDBdX0GpRb7h3VK2UBppJNxIpc3bP+qpadOmyH07TJYHCvmckZ/BQ=="/>
+        </item>
+        <item>
             <title>0.5.0</title>
             <pubDate>Thu, 26 Nov 2026 23:04:36 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
