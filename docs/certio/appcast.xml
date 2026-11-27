@@ -3,6 +3,17 @@
     <channel>
         <title>Certio</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Fri, 27 Nov 2026 23:09:24 +0100</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=certio&amp;expanded=true</sparkle:fullReleaseNotesLink>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[- Bug fixes and stability improvements.
+]]></description>
+            <enclosure url="https://github.com/iodigital-com/macOS-app-releases/releases/download/certio-v0.9.0/Certio-0.9.0.zip" length="10745228" type="application/octet-stream" sparkle:edSignature="gcdOVieKlY7dMh1WPLiIAohPk+C2+I1qdhwEy217y3FLOC0Jy0U5Eh2eDRuIMnE/3+DCcflXIcNe5A0/vIGyAQ=="/>
+        </item>
+        <item>
             <title>0.8.1</title>
             <pubDate>Wed, 25 Nov 2026 21:38:22 +0000</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/iodigital-com/macOS-app-releases/releases?q=certio&amp;expanded=true</sparkle:fullReleaseNotesLink>
