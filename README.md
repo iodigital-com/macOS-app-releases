@@ -259,7 +259,7 @@ Unzip and open `Certio.app`; it offers to move itself to Applications. Certio th
 
 **SQLite setup is explicit:** upgrade every registry consumer, stop them and retire older installed application binaries before using Bonzai-shi to initialize, import JSON or recover a recorded interrupted setup. Reads never automatically migrate or fall back to JSON. Publishing or installing these releases does not authorize live migration.
 
-Manages Bonzai project keys in 1Password, sorted by brand and project. Current version: **0.5.0 (build 5)**. Released 2026-11-26.
+Manages Bonzai project keys in 1Password, sorted by brand and project. Current version: **0.6.0 (build 6)**. Released 2026-11-27.
 
 - macOS 27 or later
 - Apple silicon
@@ -267,9 +267,9 @@ Manages Bonzai project keys in 1Password, sorted by brand and project. Current v
 - Signed with Developer ID and notarised by Apple
 - Update archives include Sparkle EdDSA signatures
 
-<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.5.0/Bonzai-shi-0.5.0.zip"><img src="assets/Bonzai-shi.png" alt="Bonzai-shi app icon" width="128" height="128"></a>
+<a href="https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.6.0/Bonzai-shi-0.6.0.zip"><img src="assets/Bonzai-shi.png" alt="Bonzai-shi app icon" width="128" height="128"></a>
 
-[Download Bonzai-shi 0.5.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.5.0/Bonzai-shi-0.5.0.zip) · SHA-256 `281d01c5f4bed5e49e98a01b52ed9ce640f9bf32d67c70f65f459d04396f15b5` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/bonzai-shi-v0.5.0)
+[Download Bonzai-shi 0.6.0](https://github.com/iodigital-com/macOS-app-releases/releases/download/bonzai-shi-v0.6.0/Bonzai-shi-0.6.0.zip) · SHA-256 `b16abafaf72096b2215f2e7632acc6eb67367b4d79ea308e4ad5311dc49e9e50` · [Release notes](https://github.com/iodigital-com/macOS-app-releases/releases/tag/bonzai-shi-v0.6.0)
 
 Quit the previous Bonzai-shi, unzip and drag `Bonzai-shi.app` itself to Applications with Finder. **Manual bootstrap:** 0.2.0 and earlier have no configured updates; install the current version by hand once. 0.3.0 was the first updater-enabled manager. Future versions are checked automatically; **Check for Updates…** is in the app menu and **Help → Release Notes** opens the installed version's notes. Installing always asks first, and update relaunch waits for active key operations.
 
